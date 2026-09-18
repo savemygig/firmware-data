@@ -1,0 +1,850 @@
+{
+  "title": "USB drive compatibility for standalone DJ players, by model",
+  "description": "Which file systems each standalone DJ player reads (FAT32, exFAT, HFS+, NTFS), which rekordbox library format it expects (Device Library or OneLibrary) or whether it runs Engine DJ, and the maker document each row rests on.",
+  "page": "https://www.savemygig.com/knowledge/usb-compatibility",
+  "publisher": "Save My Gig",
+  "reviewed": "31 August 2026",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "terms": "Licensed CC BY 4.0: free to reuse, quote and redistribute, with credit to Save My Gig and a link to https://www.savemygig.com/knowledge/usb-compatibility. Every row names the document it rests on.",
+  "fields": {
+    "fat32": "Yes where the maker lists it. On AlphaTheta and Pioneer DJ rows this is the whole-table rule.",
+    "exfat": "AlphaTheta and Pioneer DJ rows are decided by the rekordbox FAQ; Engine rows by the maker document.",
+    "hfsPlus": "Yes or No where the maker says so; \"not listed\" where the shared Engine OS guide never mentions it; null where this site holds no source.",
+    "ntfs": "No only where the maker says so; null where this site holds no source.",
+    "firstPartitionOnly": "true where the manual says only the first partition of a drive is read.",
+    "reads": "the file-system statement as this site holds it, in English, from the model documentation."
+  },
+  "models": [
+    {
+      "model": "CDJ-3000X",
+      "slug": "cdj-3000x",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "CDJ-3000X",
+          "url": "https://www.savemygig.com/knowledge/alphatheta/cdj-3000x"
+        }
+      ],
+      "library": "OneLibrary",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, exFAT, HFS+",
+      "note": "No SD card slot. USB-A x1, USB-C x2.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://support.alphatheta.com/en-US/products/48245720355353?section=23"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-3000x.svg"
+    },
+    {
+      "model": "CDJ-1500X",
+      "slug": "cdj-1500x",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "CDJ-1500X",
+          "url": "https://www.savemygig.com/knowledge/alphatheta/cdj-1500x"
+        }
+      ],
+      "library": "OneLibrary",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, exFAT, HFS+",
+      "note": "Announced July 2026. Needs rekordbox 7.2.16 or later.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://alphatheta.com/en/product/player/cdj-1500x/black/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-1500x.svg"
+    },
+    {
+      "model": "CDJ-3000",
+      "slug": "cdj-3000",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "CDJ-3000",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-3000"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, HFS+ (NTFS is not supported.)",
+      "note": "Device Library. Firmware 3.30 added OneLibrary but was withdrawn.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-3000/CDJ-3000-Firmware-Change-History-Ver322-en.pdf"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-3000.svg"
+    },
+    {
+      "model": "CDJ-2000NXS2",
+      "slug": "cdj-2000nxs2",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "CDJ-2000NXS2",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-2000nxs2"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "The workhorse in most club booths. FAT32, FAT16 or HFS+.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://downloads.support.alphatheta.com/manuals/dj-players/CDJ-2000NXS2/CDJ-2000NXS2_DRI1290A_manual.pdf"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-2000nxs2.svg"
+    },
+    {
+      "model": "CDJ-2000 / NXS",
+      "slug": "cdj-2000",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "CDJ-2000",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-2000"
+        },
+        {
+          "name": "CDJ-2000NXS",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-2000nxs"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "Still everywhere. FAT32, FAT or HFS+.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://support.alphatheta.com/en-US/articles/4406137645977"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-2000.svg"
+    },
+    {
+      "model": "CDJ-900NXS",
+      "slug": "cdj-900nxs",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "CDJ-900NXS",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-900nxs"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "FAT32, FAT or HFS+. Nothing published since 1.31 in 2017.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://support.alphatheta.com/en-US/articles/4406501395993"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-900nxs.svg"
+    },
+    {
+      "model": "CDJ-900 / 850",
+      "slug": "cdj-900",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "CDJ-900",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-900"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT, FAT32, HFS+",
+      "note": "FAT32, FAT16 or HFS+.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://www.pioneerdj.com/en/product/player/archive/cdj-900/black/overview/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-900.svg"
+    },
+    {
+      "model": "XDJ-AZ",
+      "slug": "xdj-az",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-AZ",
+          "url": "https://www.savemygig.com/knowledge/alphatheta/xdj-az"
+        }
+      ],
+      "library": "OneLibrary",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": true,
+      "reads": "FAT16, FAT32, exFAT, HFS+",
+      "note": null,
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://support.alphatheta.com/en-US/articles/38064747422745"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-az.svg"
+    },
+    {
+      "model": "XDJ-AN",
+      "slug": "xdj-an",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-AN",
+          "url": "https://www.savemygig.com/knowledge/alphatheta/xdj-an"
+        }
+      ],
+      "library": "OneLibrary",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": null,
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": null,
+      "note": "Added in rekordbox 7.2.16.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://alphatheta.com/en/product/all-in-one-dj-system/xdj-an/black/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-an.svg"
+    },
+    {
+      "model": "XDJ-RX3",
+      "slug": "xdj-rx3",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-RX3",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-rx3"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, exFAT, HFS+",
+      "note": null,
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://www.pioneerdj.com/en/product/all-in-one-system/xdj-rx3/black/overview/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-rx3.svg"
+    },
+    {
+      "model": "XDJ-XZ",
+      "slug": "xdj-xz",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-XZ",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-xz"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT, FAT32, exFAT, HFS+",
+      "note": "The 2019 manual predates exFAT support and still denies it. The maintained list is the authority.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://support.alphatheta.com/en-US/articles/4408364513817"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-xz.svg"
+    },
+    {
+      "model": "XDJ-1000MK2",
+      "slug": "xdj-1000mk2",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-1000MK2",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-1000mk2"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": true,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "FAT16, FAT32 or HFS+. Only the first partition of a drive is read.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://downloads.support.alphatheta.com/manuals/dj-players/XDJ-1000MK2/XDJ-1000MK2_DRI1396B_manual.pdf"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-1000mk2.svg"
+    },
+    {
+      "model": "XDJ-RX2",
+      "slug": "xdj-rx2",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-RX2",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-rx2"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": true,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "FAT16, FAT32 or HFS+. Only the first partition of a drive is read.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://docs.pioneerdj.com/Manuals/XDJ_RX2_DRI1479A_manual/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-rx2.svg"
+    },
+    {
+      "model": "XDJ-RX",
+      "slug": "xdj-rx",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-RX",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-rx"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": true,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "FAT16, FAT32, and HFS+ from firmware 1.30. The 2015 manual predates that and lists only FAT16 and FAT32.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://www.pioneerdj.com/en/product/all-in-one-dj-systems/xdj-rx/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-rx.svg"
+    },
+    {
+      "model": "XDJ-RR",
+      "slug": "xdj-rr",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-RR",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-rr"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": true,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "FAT16, FAT32 or HFS+. First partition, but a rekordbox library partition takes priority.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://downloads.support.alphatheta.com/manuals/XDJ_RR_DRI1568B_manual.pdf"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-rr.svg"
+    },
+    {
+      "model": "XDJ-700",
+      "slug": "xdj-700",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-700",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-700"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, HFS+",
+      "note": "Officially FAT32, FAT or HFS+ only.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://support.alphatheta.com/en-US/articles/4404827627545"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-700.svg"
+    },
+    {
+      "model": "OPUS-QUAD",
+      "slug": "opus-quad",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "OPUS-QUAD",
+          "url": "https://www.savemygig.com/knowledge/pioneer-dj/opus-quad"
+        }
+      ],
+      "library": "OneLibrary",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, exFAT, HFS+",
+      "note": "First OneLibrary player.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://www.pioneerdj.com/en/product/all-in-one-dj-systems/opus-quad/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/opus-quad.svg"
+    },
+    {
+      "model": "OMNIS-DUO",
+      "slug": "omnis-duo",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "OMNIS-DUO",
+          "url": "https://www.savemygig.com/knowledge/alphatheta/omnis-duo"
+        }
+      ],
+      "library": "OneLibrary",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": "No",
+      "firstPartitionOnly": null,
+      "reads": "FAT16, FAT32, exFAT and HFS+; NTFS is not supported",
+      "note": null,
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        },
+        {
+          "label": "model documentation",
+          "url": "https://alphatheta.com/en/product/all-in-one-dj-system/omnis-duo/indigo/"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/omnis-duo.svg"
+    },
+    {
+      "model": "SC6000 PRIME",
+      "slug": "sc6000",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "SC6000 PRIME",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/sc6000"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, FAT32, HFS+",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/sc6000-prime.html"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/sc6000.svg"
+    },
+    {
+      "model": "SC6000M PRIME",
+      "slug": "sc6000m",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "SC6000M PRIME",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/sc6000m"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "Yes",
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, FAT32, HFS+",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/sc6000m-prime.html"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/sc6000m.svg"
+    },
+    {
+      "model": "SC5000 PRIME",
+      "slug": "sc5000",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "SC5000 PRIME",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/sc5000"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "No",
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, which Denon mark as recommended, and FAT32",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/sc5000%20prime-sc5000primexus.html"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/sc5000.svg"
+    },
+    {
+      "model": "PRIME 4 G2",
+      "slug": "prime-4-g2",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "PRIME 4 G2",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/prime-4-g2"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": null,
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, FAT32",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://support.denondj.com/en/support/solutions/articles/69000882239-prime-4-g2-frequently-asked-questions"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/prime-4-g2.svg"
+    },
+    {
+      "model": "PRIME 4+",
+      "slug": "prime-4-plus",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "PRIME 4+",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/prime-4-plus"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": null,
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, FAT32",
+      "note": "The maker states an MBR partition structure for every drive.",
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/prime-4-plus.html"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/prime-4-plus.svg"
+    },
+    {
+      "model": "PRIME 4",
+      "slug": "prime-4",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "PRIME 4",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/prime-4"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "not listed",
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, which Denon mark as recommended, and FAT32",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/prime-4-prime4xus"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/prime-4.svg"
+    },
+    {
+      "model": "PRIME GO+",
+      "slug": "prime-go-plus",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "PRIME GO+",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/prime-go-plus"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "not listed",
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, which Denon mark as recommended, and FAT32",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/prime-go-plus.html"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/prime-go-plus.svg"
+    },
+    {
+      "model": "SC LIVE 4",
+      "slug": "sc-live-4",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "SC LIVE 4",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/sc-live-4"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "not listed",
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, which Denon mark as recommended, and FAT32",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/sclive4"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/sc-live-4.svg"
+    },
+    {
+      "model": "SC LIVE 2",
+      "slug": "sc-live-2",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "SC LIVE 2",
+          "url": "https://www.savemygig.com/knowledge/denon-dj/sc-live-2"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": "not listed",
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "exFAT, which Denon mark as recommended, and FAT32",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.denondj.com/sclive2"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/sc-live-2.svg"
+    },
+    {
+      "model": "Mixstream Pro+",
+      "slug": "mixstream-pro-plus",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "Mixstream Pro+",
+          "url": "https://www.savemygig.com/knowledge/numark/mixstream-pro-plus"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": null,
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "Supported file systems are exFAT, which Numark recommend, and FAT32. The guide prints the same pair twice, once in Devices and File Analysis and again in the specification table under Playable Media, and the two agree exactly.",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://www.numark.com/product/mixstream-pro-plus"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/mixstream-pro-plus.svg"
+    },
+    {
+      "model": "SYSTEM ONE",
+      "slug": "system-one",
+      "family": "Engine DJ",
+      "pages": [
+        {
+          "name": "SYSTEM ONE",
+          "url": "https://www.savemygig.com/knowledge/rane/system-one"
+        }
+      ],
+      "library": "Engine DJ",
+      "fat32": "Yes",
+      "exfat": "Yes",
+      "hfsPlus": null,
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": "Supported file systems are exFAT, which RANE recommend, and FAT32. The guide prints the same list twice, once in Devices and File Analysis and again in the specification table, and the two agree exactly.",
+      "note": null,
+      "sources": [
+        {
+          "label": "model documentation",
+          "url": "https://support.rane.com/en/support/solutions/articles/69000874996-rane-system-one-frequently-asked-questions"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/system-one.svg"
+    }
+  ]
+}
