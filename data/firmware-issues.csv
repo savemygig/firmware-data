@@ -1,36 +1,4 @@
 model,slug,safe_floor,withdrawn_version,fixed_in,area,mid_set,symptom,change_history
-DDJ-FLX6,ddj-flx6,1.12,,1.12,Software,no,An unspecified issue when using TRAKTOR PRO 3.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX6-GT/DDJ-FLX6-GT-Firmware-Change-History-Ver112-en.pdf
-DDJ-SX,ddj-sx,1.07,,1.07,Jog wheel,yes,Jog platter sensitivity was wrong when the touch sensor level knob was set close to maximum.,https://support.alphatheta.com/en-US/articles/22976696032025
-DDJ-SX,ddj-sx,1.07,,1.05,Audio,yes,High microphone input levels produced distortion.,https://support.alphatheta.com/en-US/articles/22976696032025
-DDJ-SX,ddj-sx,1.07,,1.05,Performance,no,Pad behaviour in sampler velocity mode was limited.,https://support.alphatheta.com/en-US/articles/22976696032025
-DDJ-SX,ddj-sx,1.07,,1.02,Playback,yes,Scratching was not possible with vinyl mode disabled and the audio stopped.,https://support.alphatheta.com/en-US/articles/22976696032025
-DDJ-SX,ddj-sx,1.07,,1.02,MIDI,yes,Generic MIDI control did not work correctly.,https://support.alphatheta.com/en-US/articles/22976696032025
-DDJ-SX,ddj-sx,1.07,,1.01,Jog wheel,no,The touch sensor sensitivity adjustment range was too narrow.,https://support.alphatheta.com/en-US/articles/22976696032025
-DJM-2000NXS,djm-2000nxs,3.21,,3.21,Recording,no,Audio could not be recorded on macOS 10.13.2.,https://support.alphatheta.com/en-US/articles/22072186038297
-DJM-2000NXS,djm-2000nxs,3.21,,3.19,Audio,yes,A buzzing noise could be heard when a DJ application switched sampling rates while the mixer’s USB soundcard was in use.,https://support.alphatheta.com/en-US/articles/22072186038297
-DDJ-SX2,ddj-sx2,1.06,,1.06,Channel fader,yes,Multiple channel faders worked incorrectly when used at the same time.,https://support.alphatheta.com/en-US/products/4416558363289?section=25
-DDJ-SX3,ddj-sx3,1.02,,1.02,Playback,yes,The deck stopped playing after scratching or spinning the platter.,https://support.alphatheta.com/en-US/articles/23660158166809
-DDJ-SX3,ddj-sx3,1.02,,1.02,Display,no,Performance pads and buttons sometimes lit incorrectly when connecting a computer with Serato DJ Pro running.,https://support.alphatheta.com/en-US/articles/23660158166809
-DDJ-SR2,ddj-sr2,,,,,,,https://support.alphatheta.com/en-US/products/4416565879449
-DDJ-SZ2,ddj-sz2,1.04,,1.04,Browse,yes,Needle Search did not work on rare occasions.,https://support.alphatheta.com/en-US/articles/23833091075609
-DDJ-1000SRT,ddj-1000srt,1.02,,1.02,Display,yes,The BPM shown on the Beat FX display and the BPM in the Serato DJ Pro virtual deck did not match.,https://support.alphatheta.com/en-US/articles/4404970187545
-DDJ-1000SRT,ddj-1000srt,1.02,,1.02,Audio,yes,Sampler sound did not reach the headphone output when the Sampler Cue button was pressed with the sampler volume at its lowest.,https://support.alphatheta.com/en-US/articles/4404970187545
-DDJ-RZX,ddj-rzx,1.10,,1.10,Display,yes,Minor issues on the touch display.,https://support.alphatheta.com/en-US/articles/22895809886489
-DDJ-RZX,ddj-rzx,1.10,,1.09,Display,yes,"Demo mode, the screen saver and the auto standby function activated during use.",https://support.alphatheta.com/en-US/articles/22895809886489
-DDJ-RZX,ddj-rzx,1.10,,1.05,Effects,yes,A clicking noise occurred when using the FILTER of SOUND COLOR FX.,https://support.alphatheta.com/en-US/articles/22895809886489
-DDJ-RZX,ddj-rzx,1.10,,1.04,Effects,yes,"SOUND COLOR FX malfunctioned, and pad colours were wrong in SAMPLER mode.",https://support.alphatheta.com/en-US/articles/22895809886489
-DDJ-RZX,ddj-rzx,1.10,,1.04,MIDI,yes,The unit occasionally failed to receive MIDI signals.,https://support.alphatheta.com/en-US/articles/22895809886489
-DJS-1000,djs-1000,1.12,,1.12,Display,no,Minor issues on the touch display.,https://support.alphatheta.com/en-US/articles/4414351292953
-DJS-1000,djs-1000,1.12,,1.11,Audio,yes,Sample playback distorted when an external MIDI master clock was used in live sampling mode.,https://support.alphatheta.com/en-US/articles/4414351292953
-DJS-1000,djs-1000,1.12,,1.03,Performance,yes,The unit could freeze when manual live sampling was repeated with a beat length selected.,https://support.alphatheta.com/en-US/articles/4414351292953
-DDJ-400,ddj-400,,,,,,,https://support.alphatheta.com/en-US/articles/4404975568281
-DDJ-800,ddj-800,1.02,,1.02,Display,yes,"With MIDI-compatible software other than rekordbox, MIDI messages failed to update on the Jog Dial Displays.",https://support.alphatheta.com/en-US/articles/4404975525529
-DDJ-800,ddj-800,1.02,,1.02,Playback,yes,Fader Start accuracy was improved in the same release.,https://support.alphatheta.com/en-US/articles/4404975525529
-DDJ-800,ddj-800,1.02,,1.01,DVS,yes,rekordbox dvs could not be used with Control Vinyl.,https://support.alphatheta.com/en-US/articles/4404975525529
-DDJ-FLX4,ddj-flx4,1.07,,1.07,FX,yes,"Beat FX turned off when the BEAT FX CH SELECT switch was used with Beat FX already on, under rekordbox for Mac and Windows.",https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX4/DDJ-FLX4-Firmware-Change-History-Ver107-_en.pdf
-DDJ-FLX4,ddj-flx4,1.07,,1.06,Performance,no,The knob centre-position adjustment in Utility mode could fail even when the knobs were centred.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX4/DDJ-FLX4-Firmware-Change-History-Ver107-_en.pdf
-DDJ-FLX4,ddj-flx4,1.07,,1.04,USB,yes,"The unit was not recognised when an iPhone 15 was connected by USB, and not recognised with a certain type of Android device.",https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX4/DDJ-FLX4-Firmware-Change-History-Ver107-_en.pdf
-XDJ-RX2,xdj-rx2,1.43,,1.43,Playback,yes,Some WAV files would not play on the unit.,https://support.alphatheta.com/en-US/articles/4405088806169
 CDJ-3000X,cdj-3000x,,,,,,,https://support.alphatheta.com/en-US/articles/50228449553049
 CDJ-3000,cdj-3000,3.20,3.30,3.20,Link,yes,PRO DJ LINK connection with a DJM-2000NXS could fail.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-3000/CDJ-3000-Firmware-Change-History-Ver322-en.pdf
 CDJ-3000,cdj-3000,3.20,3.30,3.19,Display,yes,Rare dead screen on power-on.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-3000/CDJ-3000-Firmware-Change-History-Ver322-en.pdf
@@ -67,7 +35,6 @@ CDJ-2000NXS,cdj-2000nxs,1.43,,1.11,Browse,yes,A freeze could occur while editing
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.10,Audio,yes,Audio dropout on the slave deck when using SYNC.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.06,Playback,yes,The player crashed on repeated HOT CUE presses with Master Tempo enabled.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.04,Playback,yes,"BPM could fluctuate during playback using Sync, and so could the tempo of a track with Slip Mode engaged.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
-CDJ-1500X,cdj-1500x,,,,,,,https://alphatheta.com/en/product/player/cdj-1500x/black/
 CDJ-2000,cdj-2000,4.33,,4.33,Browse,no,Tracks in some folders on a 2 TB hard drive were not displayed when browsing.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf
 CDJ-2000,cdj-2000,4.33,,4.33,Playback,yes,"A WAVE file with an incompatible header could not be loaded, and the loading message stayed on screen.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf
 CDJ-2000,cdj-2000,4.33,,4.11,USB,yes,A particular USB 3.0 device did not work properly.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf
@@ -79,33 +46,18 @@ CDJ-2000,cdj-2000,4.33,,4.01,Playback,yes,Fader Start did not work correctly in 
 CDJ-2000,cdj-2000,4.33,,4.01,Browse,no,Loading time when browsing from PLAYLIST had grown between 3.20 and 4.00.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf
 CDJ-2000,cdj-2000,4.33,,4.00,Playback,yes,Playback stopped if a loop was created across a whole CD.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf
 CDJ-2000,cdj-2000,4.33,,3.20,USB,yes,"A rare fault accessing media devices, and audio interruptions after long playback.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf
-CDJ-900,cdj-900,4.11,,4.11,USB,yes,A particular USB 3.0 device did not work properly.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
-CDJ-900,cdj-900,4.11,,4.11,Sound,yes,Static noise was occasionally generated with a particular MP3 file.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
-CDJ-900,cdj-900,4.11,,4.05,Playback,yes,The beat grid was rarely misaligned by about 50 ms with MASTER TEMPO on.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
-CDJ-900,cdj-900,4.11,,4.00,Playback,yes,Playback stopped if a loop was created across a whole CD.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
-CDJ-900,cdj-900,4.11,,3.20,USB,yes,"A rare fault accessing media devices, and audio interruptions after long playback.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
-XDJ-RX,xdj-rx,2.21,,2.21,Playback,yes,"With SYNC enabled, certain MP3 files did not sync.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,2.21,Display,no,Waveforms were not shown for tracks imported to some USB hard drives.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,2.21,FX,yes,Auto BPM failed with MASTER selected for the beat effect channel on LINE or PHONO.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,2.20,Browse,yes,With some USB devices the rekordbox library was not shown on the browse screen.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,1.80,Sound,yes,No audio was output when a track was loaded during SLIP LOOP.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,1.70,USB,yes,Loading became unavailable once E-8306 had appeared.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,1.70,Playback,yes,An unexpected EMERGENCY LOOP could start when loading a track from USB.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,1.60,Display,yes,The unit froze when selecting a track with specific artwork.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,1.60,Playback,yes,Audio skipped on specific VBR tracks.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RX,xdj-rx,2.21,,1.50,Browse,yes,Loading tracks did not work properly.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
-XDJ-RR,xdj-rr,1.05,,1.05,Playback,yes,Some WAV files could not be played.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
-XDJ-RR,xdj-rr,1.05,,1.03,Playback,yes,Certain AIFF files did not play properly.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
-XDJ-RR,xdj-rr,1.05,,1.03,Playback,yes,Beat SYNC misbehaved when a CUE was triggered or a track was paused.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
-XDJ-RR,xdj-rr,1.05,,1.01,Browse,yes,The rekordbox database was missing on some HFS+ formatted USB devices.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
-XDJ-RR,xdj-rr,1.05,,1.01,Routing,no,The HEADPHONES MONO SPLIT and STEREO setting was not saved across a power cycle.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
-XDJ-RR,xdj-rr,1.05,,1.01,Playback,yes,MASTER TEMPO did not work directly after scratching.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
+CDJ-1500X,cdj-1500x,,,,,,,https://alphatheta.com/en/product/player/cdj-1500x/black/
 CDJ-900NXS,cdj-900nxs,1.31,,1.31,Playback,yes,Speed did not return to the displayed BPM with Sync enabled.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.30,Playback,yes,AIFF at 24bit/48kHz stopped playing and could not be loaded. Digitally distorted white noise on certain WAV files.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.30,Link,yes,PRO DJ LINK compatibility with the CDJ-2000NXS2 and XDJ-1000MK2.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.22,USB,yes,Some hard drives were not recognized. Noise when Master Tempo was activated.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.21,Browse,yes,Folder browsing failed on 2TB hard drives. Slow track list browsing in Serato DJ HID mode.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.20,Audio,yes,Playback sound stopped while BEAT DIVIDE was activated.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
+CDJ-900,cdj-900,4.11,,4.11,USB,yes,A particular USB 3.0 device did not work properly.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
+CDJ-900,cdj-900,4.11,,4.11,Sound,yes,Static noise was occasionally generated with a particular MP3 file.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
+CDJ-900,cdj-900,4.11,,4.05,Playback,yes,The beat grid was rarely misaligned by about 50 ms with MASTER TEMPO on.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
+CDJ-900,cdj-900,4.11,,4.00,Playback,yes,Playback stopped if a loop was created across a whole CD.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
+CDJ-900,cdj-900,4.11,,3.20,USB,yes,"A rare fault accessing media devices, and audio interruptions after long playback.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf
 XDJ-1000MK2,xdj-1000mk2,1.42,,1.42,Playback,yes,Some Apple Lossless files would not play.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000MK2/XDJ-1000MK2-Firmware-Change-History-Ver145-en.pdf
 XDJ-1000MK2,xdj-1000mk2,1.42,,1.42,Audio,yes,macOS Catalina 10.15 could not see the unit as an audio device.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000MK2/XDJ-1000MK2-Firmware-Change-History-Ver145-en.pdf
 XDJ-1000MK2,xdj-1000mk2,1.42,,1.41,Browse,no,Inconsistencies in the matching function.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000MK2/XDJ-1000MK2-Firmware-Change-History-Ver145-en.pdf
@@ -129,6 +81,8 @@ DJM-V5,djm-v5,,,,,,,https://alphatheta.com/en/product/dj-mixer/djm-v5/black/
 DJM-A9,djm-a9,1.11,,1.11,Link,yes,Rare freeze under heavy PRO DJ LINK network load.,https://support.alphatheta.com/en-US/articles/24672827170585
 DJM-A9,djm-a9,1.11,,1.07,USB,yes,UASP-compatible USB drives not recognized.,https://support.alphatheta.com/en-US/articles/24672827170585
 DJM-A9,djm-a9,1.11,,1.02,Routing,yes,"Insert method intermittently disabling itself when switching the Multi I/O input selector, and DVS phono input malfunction on USB-B after swapping computers across ports.",https://support.alphatheta.com/en-US/articles/24672827170585
+DJM-2000NXS,djm-2000nxs,3.21,,3.21,Recording,no,Audio could not be recorded on macOS 10.13.2.,https://support.alphatheta.com/en-US/articles/22072186038297
+DJM-2000NXS,djm-2000nxs,3.21,,3.19,Audio,yes,A buzzing noise could be heard when a DJ application switched sampling rates while the mixer’s USB soundcard was in use.,https://support.alphatheta.com/en-US/articles/22072186038297
 DJM-900NXS2,djm-900nxs2,2.08,,2.08,Audio,no,Audio communication with iOS and iPadOS devices.,https://support.alphatheta.com/en-US/articles/4404624354969
 DJM-900NXS2,djm-900nxs2,2.08,,2.06,Recording,no,DJM-REC recording or live streaming sometimes stopped.,https://support.alphatheta.com/en-US/articles/4404624354969
 DJM-900NXS2,djm-900nxs2,2.08,,2.05,Audio,yes,"Incorrect audio in and out when connected to an iOS device, and the effect channel selector not working with it.",https://support.alphatheta.com/en-US/articles/4404624354969
@@ -150,48 +104,10 @@ DJM-900NXS,djm-900nxs,1.32,,1.26,Audio,no,Slight noise while operating the X-PAD
 DJM-750MK2,djm-750mk2,1.07,,1.07,Audio,no,Audio communication with iOS and iPadOS devices.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-750MK2/DJM-750MK2-Firmware-Change-History-Ver107-en.pdf
 DJM-750MK2,djm-750mk2,1.07,,1.04,Recording,no,DJM-REC recording or live streaming sometimes stopped.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-750MK2/DJM-750MK2-Firmware-Change-History-Ver107-en.pdf
 DJM-750MK2,djm-750mk2,1.07,,1.03,Audio,yes,Popping noise through USB audio when switching FX ASSIGN with BEAT FX on.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-750MK2/DJM-750MK2-Firmware-Change-History-Ver107-en.pdf
-euphonia,euphonia,,,,,,,https://alphatheta.com/en/product/dj-mixer/euphonia/black/
-XDJ-AZ,xdj-az,1.24,,1.24,Browse,yes,"A ""Library is not responding."" error kept appearing.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver130-EN.pdf
-XDJ-AZ,xdj-az,1.24,,1.05,Audio,yes,"No audio output, display blackouts and system freezes on some units.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver130-EN.pdf
-XDJ-AZ,xdj-az,1.24,,1.04,Recording,no,Recording could not be stopped with the Rec button.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver130-EN.pdf
-XDJ-XZ,xdj-xz,1.26,,1.26,Playback,yes,Faults when Master Tempo was turned on.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
-XDJ-XZ,xdj-xz,1.26,,1.24,Audio,yes,Faults when using Beat FX.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
-XDJ-XZ,xdj-xz,1.26,,1.23,Playback,yes,"Sync was lost after scratching in Slip mode, and some WAV files would not play.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
-XDJ-XZ,xdj-xz,1.26,,1.22,Link,yes,"PRO DJ LINK did not work properly, with jog wheel and beat sync faults.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
-XDJ-XZ,xdj-xz,1.26,,1.10,Audio,yes,No sound from the SEND output terminal.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
 DJM-450,djm-450,1.08,,1.08,iOS audio,yes,"AlphaTheta name the area and publish no symptom: ""Fixed an issue related to audio communication with iOS/iPadOS devices.""",https://support.alphatheta.com/en-US/articles/4404961985305
 DJM-450,djm-450,1.08,,1.06,Recording,yes,Recording or live streaming with DJM-REC sometimes stopped.,https://support.alphatheta.com/en-US/articles/4404961985305
 DJM-450,djm-450,1.08,,1.03,Audio,yes,Popping noise in USB audio over FX SEND/RETURN when switching FX assign in rekordbox.,https://support.alphatheta.com/en-US/articles/4404961985305
 DJM-450,djm-450,1.08,,1.02,Audio,yes,Popping noise from the EQ/ISO knob.,https://support.alphatheta.com/en-US/articles/4404961985305
-OPUS-QUAD,opus-quad,1.32,,1.32,Display,no,Artwork sometimes was not displayed on the deck displays.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
-OPUS-QUAD,opus-quad,1.32,,1.22,Audio,yes,"No audio output, display screen blackouts and system freezes on some units.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
-OPUS-QUAD,opus-quad,1.32,,1.12,USB,yes,"Issues when using the exFAT file system, and internet connectivity problems.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
-OPUS-QUAD,opus-quad,1.32,,1.10,Playback,yes,"A filter settings issue, and M4A files not playing correctly.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
-OMNIS-DUO,omnis-duo,1.10,,1.10,Audio,yes,Issues when using Beat FX.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
-OMNIS-DUO,omnis-duo,1.10,,1.04,Browse,no,Keys at the bottom of the touch keyboard occasionally became unresponsive.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
-OMNIS-DUO,omnis-duo,1.10,,1.03,Browse,no,Played tracks were not displayed in the correct colour on the browse screen.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
-OMNIS-DUO,omnis-duo,1.10,,1.01,Audio,yes,"Bluetooth audio input and output issues, and rekordbox recording problems in Performance mode.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
-RMX-1000,rmx-1000,2.11,,2.11,Effects,yes,"No sound would be output when ECHO was selected from SCENE FX, rarely.",https://support.alphatheta.com/en-US/articles/4405121384345
-RMX-1000,rmx-1000,2.11,,2.10,Audio,yes,The output audio level was lowered in some conditions.,https://support.alphatheta.com/en-US/articles/4405121384345
-RMX-1000,rmx-1000,2.11,,1.31,Effects,yes,"The volume of SPIRAL UP and DOWN in SCENE FX became excessively loud, and QUANTIZE misbehaved when used with OVERDUB in X-PAD FX.",https://support.alphatheta.com/en-US/articles/4405121384345
-RMX-1000,rmx-1000,2.11,,1.20,Audio,yes,Slight noise could rarely be heard on the output sound.,https://support.alphatheta.com/en-US/articles/4405121384345
-RMX-1000,rmx-1000,2.11,,1.19,MIDI,no,Sending and receiving MIDI signals with the plug-in was faulty.,https://support.alphatheta.com/en-US/articles/4405121384345
-RMX IGNITE,rmx-ignite,1.01,,1.01,Link,yes,Issues when connected to mixers such as the DJM-A9 and DJM-V10.,https://support.alphatheta.com/en-US/articles/53214453590532
-DDJ-FLX10,ddj-flx10,1.12,,1.12,STEMS,yes,Track Separation layout changes in rekordbox swapped the wrong part when adjusted by the EQ knob.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX10/DDJ-FLX10-Firmware-Change-History-ver114-en.pdf
-DDJ-1000,ddj-1000,1.12,,1.12,Display,yes,The jog wheel waveform disappeared and the performance pads turned purple.,https://support.alphatheta.com/en-US/articles/4404631667609
-DDJ-1000,ddj-1000,1.12,,1.07,Audio,no,A performance issue in Spiral FX.,https://support.alphatheta.com/en-US/articles/4404631667609
-DDJ-1000,ddj-1000,1.12,,1.07,Performance,no,Fader Start accuracy issue.,https://support.alphatheta.com/en-US/articles/4404631667609
-DDJ-1000,ddj-1000,1.12,,1.06,Crossfader,yes,Crossfader position did not align correctly between the hardware and rekordbox dj.,https://support.alphatheta.com/en-US/articles/4404631667609
-DDJ-GRV6,ddj-grv6,,,,,,,https://support.alphatheta.com/en-US/articles/37071197404057
-DDJ-REV7,ddj-rev7,1.02,,1.02,Jog wheel,yes,A problem operating the motorized jog platter at high speed.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-REV7/DDJ-REV7-Firmware-Change-History-Ver201-en.pdf
-PLX-CRSS12,plx-crss12,,,,,,,https://support.alphatheta.com/en-US/articles/34681931164313
-PLX-1000,plx-1000,,,,,,,https://support.alphatheta.com/en-US/articles/4404665553817
-XDJ-RX3,xdj-rx3,1.18,,1.18,Playback,no,Issues when Master Tempo was turned on.,https://support.alphatheta.com/en-US/articles/4562999179673
-XDJ-RX3,xdj-rx3,1.18,,1.17,Browse,no,Keyword search speed was slowing down.,https://support.alphatheta.com/en-US/articles/4562999179673
-XDJ-RX3,xdj-rx3,1.18,,1.15,Browse,no,Occasionally the color of played tracks did not turn green if they were stored on an external device containing a large number of tracks.,https://support.alphatheta.com/en-US/articles/4562999179673
-XDJ-RX3,xdj-rx3,1.18,,1.13,USB,yes,Potential freeze when connecting two USB drives containing lots of tracks.,https://support.alphatheta.com/en-US/articles/4562999179673
-XDJ-RX3,xdj-rx3,1.18,,1.11,PRO DJ LINK,no,Bugs when using PRO DJ LINK (Link Export).,https://support.alphatheta.com/en-US/articles/4562999179673
-XDJ-RX3,xdj-rx3,1.18,,1.10,Sound,yes,Sound stopped when SOFTWARE CONTROL was turned on.,https://support.alphatheta.com/en-US/articles/4562999179673
 DJM-S11,djm-s11,1.05,,1.05,Display,no,In rare cases the waveform display disappeared when the input selector switch was changed while connected to a computer.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-S11/DJM-S11-Firmware-Change-History-Ver105-en.pdf
 DJM-S11,djm-s11,1.05,,1.03,Display,yes,Unresponsive LCD display when 2 computers are connected.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-S11/DJM-S11-Firmware-Change-History-Ver105-en.pdf
 DJM-S11,djm-s11,1.05,,1.03,Display,no,Detailed waveform was displayed incorrectly when playing a short track.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-S11/DJM-S11-Firmware-Change-History-Ver105-en.pdf
@@ -204,13 +120,97 @@ DJM-S9,djm-s9,1.09,,1.07,Audio,yes,Audio was cut at the start of the AUX input.,
 DJM-S9,djm-s9,1.09,,1.07,Audio,no,The master mix out was recorded incorrectly on the USB-B computer when two computers were connected.,https://support.alphatheta.com/en-US/articles/4404969859865
 DJM-S7,djm-s7,,,,,,,https://support.alphatheta.com/en-US/articles/35152935572249
 DJM-S5,djm-s5,1.03,,1.03,FX,no,Scratch Cutter did not function correctly.,https://downloads.support.alphatheta.com/manual/DRI1782A
+euphonia,euphonia,,,,,,,https://alphatheta.com/en/product/dj-mixer/euphonia/black/
+PLX-CRSS12,plx-crss12,,,,,,,https://support.alphatheta.com/en-US/articles/34681931164313
+PLX-1000,plx-1000,,,,,,,https://support.alphatheta.com/en-US/articles/4404665553817
+OPUS-QUAD,opus-quad,1.32,,1.32,Display,no,Artwork sometimes was not displayed on the deck displays.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
+OPUS-QUAD,opus-quad,1.32,,1.22,Audio,yes,"No audio output, display screen blackouts and system freezes on some units.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
+OPUS-QUAD,opus-quad,1.32,,1.12,USB,yes,"Issues when using the exFAT file system, and internet connectivity problems.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
+OPUS-QUAD,opus-quad,1.32,,1.10,Playback,yes,"A filter settings issue, and M4A files not playing correctly.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OPUS-QUAD/OPUS-QUAD_Firmware_Change_History_Ver132_EN.pdf
+XDJ-RX3,xdj-rx3,1.18,,1.18,Playback,no,Issues when Master Tempo was turned on.,https://support.alphatheta.com/en-US/articles/4562999179673
+XDJ-RX3,xdj-rx3,1.18,,1.17,Browse,no,Keyword search speed was slowing down.,https://support.alphatheta.com/en-US/articles/4562999179673
+XDJ-RX3,xdj-rx3,1.18,,1.15,Browse,no,Occasionally the color of played tracks did not turn green if they were stored on an external device containing a large number of tracks.,https://support.alphatheta.com/en-US/articles/4562999179673
+XDJ-RX3,xdj-rx3,1.18,,1.13,USB,yes,Potential freeze when connecting two USB drives containing lots of tracks.,https://support.alphatheta.com/en-US/articles/4562999179673
+XDJ-RX3,xdj-rx3,1.18,,1.11,PRO DJ LINK,no,Bugs when using PRO DJ LINK (Link Export).,https://support.alphatheta.com/en-US/articles/4562999179673
+XDJ-RX3,xdj-rx3,1.18,,1.10,Sound,yes,Sound stopped when SOFTWARE CONTROL was turned on.,https://support.alphatheta.com/en-US/articles/4562999179673
+XDJ-RX2,xdj-rx2,1.43,,1.43,Playback,yes,Some WAV files would not play on the unit.,https://support.alphatheta.com/en-US/articles/4405088806169
+XDJ-RR,xdj-rr,1.05,,1.05,Playback,yes,Some WAV files could not be played.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
+XDJ-RR,xdj-rr,1.05,,1.03,Playback,yes,Certain AIFF files did not play properly.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
+XDJ-RR,xdj-rr,1.05,,1.03,Playback,yes,Beat SYNC misbehaved when a CUE was triggered or a track was paused.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
+XDJ-RR,xdj-rr,1.05,,1.01,Browse,yes,The rekordbox database was missing on some HFS+ formatted USB devices.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
+XDJ-RR,xdj-rr,1.05,,1.01,Routing,no,The HEADPHONES MONO SPLIT and STEREO setting was not saved across a power cycle.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
+XDJ-RR,xdj-rr,1.05,,1.01,Playback,yes,MASTER TEMPO did not work directly after scratching.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf
+XDJ-RX,xdj-rx,2.21,,2.21,Playback,yes,"With SYNC enabled, certain MP3 files did not sync.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,2.21,Display,no,Waveforms were not shown for tracks imported to some USB hard drives.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,2.21,FX,yes,Auto BPM failed with MASTER selected for the beat effect channel on LINE or PHONO.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,2.20,Browse,yes,With some USB devices the rekordbox library was not shown on the browse screen.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,1.80,Sound,yes,No audio was output when a track was loaded during SLIP LOOP.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,1.70,USB,yes,Loading became unavailable once E-8306 had appeared.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,1.70,Playback,yes,An unexpected EMERGENCY LOOP could start when loading a track from USB.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,1.60,Display,yes,The unit froze when selecting a track with specific artwork.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,1.60,Playback,yes,Audio skipped on specific VBR tracks.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-RX,xdj-rx,2.21,,1.50,Browse,yes,Loading tracks did not work properly.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RX/XDJ-RX-Firmware-Change-History-Ver221-en.pdf
+XDJ-XZ,xdj-xz,1.26,,1.26,Playback,yes,Faults when Master Tempo was turned on.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
+XDJ-XZ,xdj-xz,1.26,,1.24,Audio,yes,Faults when using Beat FX.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
+XDJ-XZ,xdj-xz,1.26,,1.23,Playback,yes,"Sync was lost after scratching in Slip mode, and some WAV files would not play.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
+XDJ-XZ,xdj-xz,1.26,,1.22,Link,yes,"PRO DJ LINK did not work properly, with jog wheel and beat sync faults.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
+XDJ-XZ,xdj-xz,1.26,,1.10,Audio,yes,No sound from the SEND output terminal.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf
+OMNIS-DUO,omnis-duo,1.10,,1.10,Audio,yes,Issues when using Beat FX.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
+OMNIS-DUO,omnis-duo,1.10,,1.04,Browse,no,Keys at the bottom of the touch keyboard occasionally became unresponsive.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
+OMNIS-DUO,omnis-duo,1.10,,1.03,Browse,no,Played tracks were not displayed in the correct colour on the browse screen.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
+OMNIS-DUO,omnis-duo,1.10,,1.01,Audio,yes,"Bluetooth audio input and output issues, and rekordbox recording problems in Performance mode.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf
+XDJ-AN,xdj-an,1.20,,1.20,Network,no,Network updates would fail.,https://alphatheta.com/en/product/all-in-one-dj-system/xdj-an/black/
+XDJ-AN,xdj-an,1.20,,1.13,Crossfader,yes,"The crossfader cut-lag width was not optimised, so cuts landed late.",https://alphatheta.com/en/product/all-in-one-dj-system/xdj-an/black/
+XDJ-AN,xdj-an,1.20,,1.10,Cloud,no,Devices stayed logged in for the wrong duration when using QR code login.,https://alphatheta.com/en/product/all-in-one-dj-system/xdj-an/black/
+XDJ-AZ,xdj-az,1.24,,1.24,Browse,yes,"A ""Library is not responding."" error kept appearing.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver130-EN.pdf
+XDJ-AZ,xdj-az,1.24,,1.05,Audio,yes,"No audio output, display blackouts and system freezes on some units.",https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver130-EN.pdf
+XDJ-AZ,xdj-az,1.24,,1.04,Recording,no,Recording could not be stopped with the Rec button.,https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver130-EN.pdf
+DDJ-FLX10,ddj-flx10,1.12,,1.12,STEMS,yes,Track Separation layout changes in rekordbox swapped the wrong part when adjusted by the EQ knob.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX10/DDJ-FLX10-Firmware-Change-History-ver114-en.pdf
+DDJ-FLX6,ddj-flx6,1.12,,1.12,Software,no,An unspecified issue when using TRAKTOR PRO 3.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX6-GT/DDJ-FLX6-GT-Firmware-Change-History-Ver112-en.pdf
+DDJ-FLX4,ddj-flx4,1.07,,1.07,FX,yes,"Beat FX turned off when the BEAT FX CH SELECT switch was used with Beat FX already on, under rekordbox for Mac and Windows.",https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX4/DDJ-FLX4-Firmware-Change-History-Ver107-_en.pdf
+DDJ-FLX4,ddj-flx4,1.07,,1.06,Performance,no,The knob centre-position adjustment in Utility mode could fail even when the knobs were centred.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX4/DDJ-FLX4-Firmware-Change-History-Ver107-_en.pdf
+DDJ-FLX4,ddj-flx4,1.07,,1.04,USB,yes,"The unit was not recognised when an iPhone 15 was connected by USB, and not recognised with a certain type of Android device.",https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX4/DDJ-FLX4-Firmware-Change-History-Ver107-_en.pdf
+DDJ-REV7,ddj-rev7,1.02,,1.02,Jog wheel,yes,A problem operating the motorized jog platter at high speed.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-REV7/DDJ-REV7-Firmware-Change-History-Ver201-en.pdf
+DDJ-1000,ddj-1000,1.12,,1.12,Display,yes,The jog wheel waveform disappeared and the performance pads turned purple.,https://support.alphatheta.com/en-US/articles/4404631667609
+DDJ-1000,ddj-1000,1.12,,1.07,Audio,no,A performance issue in Spiral FX.,https://support.alphatheta.com/en-US/articles/4404631667609
+DDJ-1000,ddj-1000,1.12,,1.07,Performance,no,Fader Start accuracy issue.,https://support.alphatheta.com/en-US/articles/4404631667609
+DDJ-1000,ddj-1000,1.12,,1.06,Crossfader,yes,Crossfader position did not align correctly between the hardware and rekordbox dj.,https://support.alphatheta.com/en-US/articles/4404631667609
+DDJ-800,ddj-800,1.02,,1.02,Display,yes,"With MIDI-compatible software other than rekordbox, MIDI messages failed to update on the Jog Dial Displays.",https://support.alphatheta.com/en-US/articles/4404975525529
+DDJ-800,ddj-800,1.02,,1.02,Playback,yes,Fader Start accuracy was improved in the same release.,https://support.alphatheta.com/en-US/articles/4404975525529
+DDJ-800,ddj-800,1.02,,1.01,DVS,yes,rekordbox dvs could not be used with Control Vinyl.,https://support.alphatheta.com/en-US/articles/4404975525529
+DDJ-400,ddj-400,,,,,,,https://support.alphatheta.com/en-US/articles/4404975568281
+DDJ-1000SRT,ddj-1000srt,1.02,,1.02,Display,yes,The BPM shown on the Beat FX display and the BPM in the Serato DJ Pro virtual deck did not match.,https://support.alphatheta.com/en-US/articles/4404970187545
+DDJ-1000SRT,ddj-1000srt,1.02,,1.02,Audio,yes,Sampler sound did not reach the headphone output when the Sampler Cue button was pressed with the sampler volume at its lowest.,https://support.alphatheta.com/en-US/articles/4404970187545
+DDJ-SZ2,ddj-sz2,1.04,,1.04,Browse,yes,Needle Search did not work on rare occasions.,https://support.alphatheta.com/en-US/articles/23833091075609
+DDJ-SX3,ddj-sx3,1.02,,1.02,Playback,yes,The deck stopped playing after scratching or spinning the platter.,https://support.alphatheta.com/en-US/articles/23660158166809
+DDJ-SX3,ddj-sx3,1.02,,1.02,Display,no,Performance pads and buttons sometimes lit incorrectly when connecting a computer with Serato DJ Pro running.,https://support.alphatheta.com/en-US/articles/23660158166809
+DDJ-SX2,ddj-sx2,1.06,,1.06,Channel fader,yes,Multiple channel faders worked incorrectly when used at the same time.,https://support.alphatheta.com/en-US/products/4416558363289?section=25
+DDJ-SX,ddj-sx,1.07,,1.07,Jog wheel,yes,Jog platter sensitivity was wrong when the touch sensor level knob was set close to maximum.,https://support.alphatheta.com/en-US/articles/22976696032025
+DDJ-SX,ddj-sx,1.07,,1.05,Audio,yes,High microphone input levels produced distortion.,https://support.alphatheta.com/en-US/articles/22976696032025
+DDJ-SX,ddj-sx,1.07,,1.05,Performance,no,Pad behaviour in sampler velocity mode was limited.,https://support.alphatheta.com/en-US/articles/22976696032025
+DDJ-SX,ddj-sx,1.07,,1.02,Playback,yes,Scratching was not possible with vinyl mode disabled and the audio stopped.,https://support.alphatheta.com/en-US/articles/22976696032025
+DDJ-SX,ddj-sx,1.07,,1.02,MIDI,yes,Generic MIDI control did not work correctly.,https://support.alphatheta.com/en-US/articles/22976696032025
+DDJ-SX,ddj-sx,1.07,,1.01,Jog wheel,no,The touch sensor sensitivity adjustment range was too narrow.,https://support.alphatheta.com/en-US/articles/22976696032025
+DDJ-SR2,ddj-sr2,,,,,,,https://support.alphatheta.com/en-US/products/4416565879449
+DDJ-RZX,ddj-rzx,1.10,,1.10,Display,yes,Minor issues on the touch display.,https://support.alphatheta.com/en-US/articles/22895809886489
+DDJ-RZX,ddj-rzx,1.10,,1.09,Display,yes,"Demo mode, the screen saver and the auto standby function activated during use.",https://support.alphatheta.com/en-US/articles/22895809886489
+DDJ-RZX,ddj-rzx,1.10,,1.05,Effects,yes,A clicking noise occurred when using the FILTER of SOUND COLOR FX.,https://support.alphatheta.com/en-US/articles/22895809886489
+DDJ-RZX,ddj-rzx,1.10,,1.04,Effects,yes,"SOUND COLOR FX malfunctioned, and pad colours were wrong in SAMPLER mode.",https://support.alphatheta.com/en-US/articles/22895809886489
+DDJ-RZX,ddj-rzx,1.10,,1.04,MIDI,yes,The unit occasionally failed to receive MIDI signals.,https://support.alphatheta.com/en-US/articles/22895809886489
+DDJ-GRV6,ddj-grv6,,,,,,,https://support.alphatheta.com/en-US/articles/37071197404057
 SLAB,slab,1.10,,1.10,Link,no,Connection issue with Serato DJ Pro.,https://support.alphatheta.com/en-US/articles/52833942683801
 SLAB,slab,1.10,,1.10,Link,no,Connection issue with Serato Sample.,https://support.alphatheta.com/en-US/articles/52833942683801
 SLAB,slab,1.10,,1.10,Performance,no,Note Repeat malfunction.,https://support.alphatheta.com/en-US/articles/52833942683801
 SLAB,slab,1.10,,1.10,Performance,no,Touch strip malfunction.,https://support.alphatheta.com/en-US/articles/52833942683801
 SLAB,slab,1.10,,1.10,Performance,no,Encoder touch function malfunction.,https://support.alphatheta.com/en-US/articles/52833942683801
-XDJ-AN,xdj-an,1.20,,1.20,Network,no,Network updates would fail.,https://alphatheta.com/en/product/all-in-one-dj-system/xdj-an/black/
-XDJ-AN,xdj-an,1.20,,1.13,Crossfader,yes,"The crossfader cut-lag width was not optimised, so cuts landed late.",https://alphatheta.com/en/product/all-in-one-dj-system/xdj-an/black/
-XDJ-AN,xdj-an,1.20,,1.10,Cloud,no,Devices stayed logged in for the wrong duration when using QR code login.,https://alphatheta.com/en/product/all-in-one-dj-system/xdj-an/black/
+DJS-1000,djs-1000,1.12,,1.12,Display,no,Minor issues on the touch display.,https://support.alphatheta.com/en-US/articles/4414351292953
+DJS-1000,djs-1000,1.12,,1.11,Audio,yes,Sample playback distorted when an external MIDI master clock was used in live sampling mode.,https://support.alphatheta.com/en-US/articles/4414351292953
+DJS-1000,djs-1000,1.12,,1.03,Performance,yes,The unit could freeze when manual live sampling was repeated with a beat length selected.,https://support.alphatheta.com/en-US/articles/4414351292953
+RMX-1000,rmx-1000,2.11,,2.11,Effects,yes,"No sound would be output when ECHO was selected from SCENE FX, rarely.",https://support.alphatheta.com/en-US/articles/4405121384345
+RMX-1000,rmx-1000,2.11,,2.10,Audio,yes,The output audio level was lowered in some conditions.,https://support.alphatheta.com/en-US/articles/4405121384345
+RMX-1000,rmx-1000,2.11,,1.31,Effects,yes,"The volume of SPIRAL UP and DOWN in SCENE FX became excessively loud, and QUANTIZE misbehaved when used with OVERDUB in X-PAD FX.",https://support.alphatheta.com/en-US/articles/4405121384345
+RMX-1000,rmx-1000,2.11,,1.20,Audio,yes,Slight noise could rarely be heard on the output sound.,https://support.alphatheta.com/en-US/articles/4405121384345
+RMX-1000,rmx-1000,2.11,,1.19,MIDI,no,Sending and receiving MIDI signals with the plug-in was faulty.,https://support.alphatheta.com/en-US/articles/4405121384345
+RMX IGNITE,rmx-ignite,1.01,,1.01,Link,yes,Issues when connected to mixers such as the DJM-A9 and DJM-V10.,https://support.alphatheta.com/en-US/articles/53214453590532
 SanDisk DJ Flash Drive,sandisk-dj-flash-drive,,,,,,,https://alphatheta.com/en/product/accessories/sandisk-dj-flash-drive/black/
 WAVE-EIGHT,wave-eight,,,,,,,https://alphatheta.com/en/product/portable-dj-speaker/wave-eight/black/
