@@ -279,85 +279,6 @@
       "note": null
     },
     {
-      "model": "CDJ-2000",
-      "slug": "cdj-2000",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-2000",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf",
-      "safeFloor": "4.33",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/cdj-2000.svg",
-      "faults": [
-        {
-          "fixedIn": "4.33",
-          "area": "Browse",
-          "midSet": false,
-          "symptom": "Tracks in some folders on a 2 TB hard drive were not displayed when browsing."
-        },
-        {
-          "fixedIn": "4.33",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "A WAVE file with an incompatible header could not be loaded, and the loading message stayed on screen."
-        },
-        {
-          "fixedIn": "4.11",
-          "area": "USB",
-          "midSet": true,
-          "symptom": "A particular USB 3.0 device did not work properly."
-        },
-        {
-          "fixedIn": "4.11",
-          "area": "Sound",
-          "midSet": true,
-          "symptom": "Static noise was occasionally generated with a particular MP3 file."
-        },
-        {
-          "fixedIn": "4.10",
-          "area": "Performance",
-          "midSet": true,
-          "symptom": "A fault could occur when multiple CUE or HOT CUE points were set at the same time."
-        },
-        {
-          "fixedIn": "4.05",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "The beat grid was rarely misaligned by about 50 ms with MASTER TEMPO on."
-        },
-        {
-          "fixedIn": "4.04",
-          "area": "PRO DJ LINK",
-          "midSet": true,
-          "symptom": "Playback stopped with an E-8302 PLAYER ERROR over PRO DJ LINK when reaching a hard drive that wakes slowly from sleep."
-        },
-        {
-          "fixedIn": "4.01",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Fader Start did not work correctly in some cases."
-        },
-        {
-          "fixedIn": "4.01",
-          "area": "Browse",
-          "midSet": false,
-          "symptom": "Loading time when browsing from PLAYLIST had grown between 3.20 and 4.00."
-        },
-        {
-          "fixedIn": "4.00",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Playback stopped if a loop was created across a whole CD."
-        },
-        {
-          "fixedIn": "3.20",
-          "area": "USB",
-          "midSet": true,
-          "symptom": "A rare fault accessing media devices, and audio interruptions after long playback."
-        }
-      ],
-      "note": "AlphaTheta publish a long record for this player, twelve dated versions from December 2009 to 4.33 in February 2015, and nothing since. Only the entries that name a defect appear in the table above; the feature releases and the sound-quality improvements are on the model page."
-    },
-    {
       "model": "CDJ-1500X",
       "slug": "cdj-1500x",
       "page": "https://www.savemygig.com/knowledge/alphatheta/cdj-1500x",
@@ -417,49 +338,6 @@
         }
       ],
       "note": null
-    },
-    {
-      "model": "CDJ-900",
-      "slug": "cdj-900",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-900",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf",
-      "safeFloor": "4.11",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/cdj-900.svg",
-      "faults": [
-        {
-          "fixedIn": "4.11",
-          "area": "USB",
-          "midSet": true,
-          "symptom": "A particular USB 3.0 device did not work properly."
-        },
-        {
-          "fixedIn": "4.11",
-          "area": "Sound",
-          "midSet": true,
-          "symptom": "Static noise was occasionally generated with a particular MP3 file."
-        },
-        {
-          "fixedIn": "4.05",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "The beat grid was rarely misaligned by about 50 ms with MASTER TEMPO on."
-        },
-        {
-          "fixedIn": "4.00",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Playback stopped if a loop was created across a whole CD."
-        },
-        {
-          "fixedIn": "3.20",
-          "area": "USB",
-          "midSet": true,
-          "symptom": "A rare fault accessing media devices, and audio interruptions after long playback."
-        }
-      ],
-      "note": "The last release for this player, 4.32 of 1 April 2014, added KUVO support and fixed nothing. Nothing has been published since. Only the entries that name a defect appear in the table above."
     },
     {
       "model": "XDJ-1000MK2",
@@ -588,7 +466,7 @@
       "note": null
     },
     {
-      "model": "DJM-V10 / V10-LF",
+      "model": "DJM-V10",
       "slug": "djm-v10",
       "page": "https://www.savemygig.com/knowledge/pioneer-dj/djm-v10",
       "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10/DJM-V10-Firmware-Change-History-Ver120-en.pdf",
@@ -637,6 +515,31 @@
       "note": "AlphaTheta publish two entries for this mixer and neither names a defect. 1.10 of 25 June 2026 added support for djay Pro on Mac and Windows. 1.08 of 20 January 2026 added support for the RMX-IGNITE and closes with \"Other minor bugs have been fixed.\" Both are capability gates: below them, those things do not work."
     },
     {
+      "model": "DJM-V10-LF",
+      "slug": "djm-v10-lf",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/djm-v10-lf",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10-LF/DJM-V10-LF-Firmware-Change-History-Ver130-en.pdf",
+      "safeFloor": "1.16",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/djm-v10-lf.svg",
+      "faults": [
+        {
+          "fixedIn": "1.16",
+          "area": "USB",
+          "midSet": true,
+          "symptom": "UASP-compatible USB drives not recognized."
+        },
+        {
+          "fixedIn": "1.12",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "Potential audio cut-out when connected to CDJ-3000s over PRO DJ LINK."
+        }
+      ],
+      "note": "AlphaTheta publish a separate change history for the DJM-V10-LF, not shared with the DJM-V10 article, and it carries the same two documented fixes at the same version numbers, 1.16 and 1.12, which confirms the two mixers share electronics below the fader section. Its published history starts at 1.08, 27 Apr 2021; 1.11 and 1.14 are filed only as Minor issues with no symptom named, so neither earns a row here."
+    },
+    {
       "model": "DJM-A9",
       "slug": "djm-a9",
       "page": "https://www.savemygig.com/knowledge/pioneer-dj/djm-a9",
@@ -666,31 +569,6 @@
         }
       ],
       "note": null
-    },
-    {
-      "model": "DJM-2000NXS",
-      "slug": "djm-2000nxs",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/djm-2000nxs",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/22072186038297",
-      "safeFloor": "3.21",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/djm-2000nxs.svg",
-      "faults": [
-        {
-          "fixedIn": "3.21",
-          "area": "Recording",
-          "midSet": false,
-          "symptom": "Audio could not be recorded on macOS 10.13.2."
-        },
-        {
-          "fixedIn": "3.19",
-          "area": "Audio",
-          "midSet": true,
-          "symptom": "A buzzing noise could be heard when a DJ application switched sampling rates while the mixer’s USB soundcard was in use."
-        }
-      ],
-      "note": "Ver. 3.21 is the highest published version and AlphaTheta render its date two ways on their own material, 10 July 2018 in the change history and 7 October 2018 on the article, which is the ordinary 07/10 ambiguity. Ver. 3.20 added KUVO support and 3.18 improved SIDECHAIN REMIX and added manual effects to it, both additions rather than named defects, so neither carries a row. THE HISTORY HAS NO VERSION BELOW 3.18, and that is the answer to the DJM-2000 question rather than a gap: 3.18 is where the two products converged. The DJM-2000 is a different product with its own history and it has no row here because this site has no page for it. The two share a firmware filename from 3.18 onward and that is not permission to flash either machine with the other file."
     },
     {
       "model": "DJM-900NXS2",
@@ -900,6 +778,31 @@
       "note": null
     },
     {
+      "model": "DJM-250MK2",
+      "slug": "djm-250mk2",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/djm-250mk2",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404969796505",
+      "safeFloor": "1.07",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/djm-250mk2.svg",
+      "faults": [
+        {
+          "fixedIn": "1.07",
+          "area": "DVS",
+          "midSet": true,
+          "symptom": "DVS timecode signals were occasionally not output when using TRAKTOR."
+        },
+        {
+          "fixedIn": "1.05",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "Popping noise in USB audio over FX SEND/RETURN when switching FX assign in rekordbox with its Beat FX on. The effect is rekordbox's, not the mixer's: this model has no Beat FX of its own."
+        }
+      ],
+      "note": null
+    },
+    {
       "model": "DJM-S11",
       "slug": "djm-s11",
       "page": "https://www.savemygig.com/knowledge/pioneer-dj/djm-s11",
@@ -1029,6 +932,30 @@
       "note": "AlphaTheta has published no firmware change history for this unit, so there is no documented fix to report. This section stays empty until one exists."
     },
     {
+      "model": "PLX-1000",
+      "slug": "plx-1000",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/plx-1000",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404665553817",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/plx-1000.svg",
+      "faults": [],
+      "note": "This deck is fully analog with no digital control path. The Pioneer DJ Help Center product page for it carries no Firmware section, unlike the PLX-CRSS12 page, and the manual makes no mention of firmware anywhere. There is nothing to publish and nothing to update."
+    },
+    {
+      "model": "PLX-500",
+      "slug": "plx-500",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/plx-500",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404665557145",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/plx-500.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model. Its help centre page lists one document, the instruction manual, with no Firmware section and no driver. It is an analogue deck with a USB audio output that needs no driver, so there is nothing to update."
+    },
+    {
       "model": "PLX-CRSS12",
       "slug": "plx-crss12",
       "page": "https://www.savemygig.com/knowledge/pioneer-dj/plx-crss12",
@@ -1039,18 +966,6 @@
       "badge": "https://www.savemygig.com/badge/firmware/plx-crss12.svg",
       "faults": [],
       "note": "The only published version is 1.10, an EU Ecodesign compliance change to the auto power-off timing, not a defect fix. No documented fault exists for this unit."
-    },
-    {
-      "model": "PLX-1000",
-      "slug": "plx-1000",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/plx-1000",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404665553817",
-      "safeFloor": null,
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/plx-1000.svg",
-      "faults": [],
-      "note": "This deck is fully analog with no digital control path. The AlphaTheta Help Center product page for it carries no Firmware section, unlike the PLX-CRSS12 page, and the manual makes no mention of firmware anywhere. There is nothing to publish and nothing to update."
     },
     {
       "model": "OPUS-QUAD",
@@ -1085,6 +1000,49 @@
           "area": "Playback",
           "midSet": true,
           "symptom": "A filter settings issue, and M4A files not playing correctly."
+        }
+      ],
+      "note": null
+    },
+    {
+      "model": "XDJ-XZ",
+      "slug": "xdj-xz",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-xz",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf",
+      "safeFloor": "1.26",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/xdj-xz.svg",
+      "faults": [
+        {
+          "fixedIn": "1.26",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Faults when Master Tempo was turned on."
+        },
+        {
+          "fixedIn": "1.24",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "Faults when using Beat FX."
+        },
+        {
+          "fixedIn": "1.23",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Sync was lost after scratching in Slip mode, and some WAV files would not play."
+        },
+        {
+          "fixedIn": "1.22",
+          "area": "Link",
+          "midSet": true,
+          "symptom": "PRO DJ LINK did not work properly, with jog wheel and beat sync faults."
+        },
+        {
+          "fixedIn": "1.10",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "No sound from the SEND output terminal."
         }
       ],
       "note": null
@@ -1280,53 +1238,10 @@
       "note": "AlphaTheta publish ten dated versions for this unit, from 1.30 of 2 March 2015 to 2.21 of 26 October 2017, and nothing since. The table lists the defects this site has read and verified; the linked change history is the complete record, and improvements and feature additions carry no row here by rule."
     },
     {
-      "model": "XDJ-XZ",
-      "slug": "xdj-xz",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-xz",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-XZ/XDJ-XZ-Firmware-Change-History-ver126-en.pdf",
-      "safeFloor": "1.26",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/xdj-xz.svg",
-      "faults": [
-        {
-          "fixedIn": "1.26",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Faults when Master Tempo was turned on."
-        },
-        {
-          "fixedIn": "1.24",
-          "area": "Audio",
-          "midSet": true,
-          "symptom": "Faults when using Beat FX."
-        },
-        {
-          "fixedIn": "1.23",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Sync was lost after scratching in Slip mode, and some WAV files would not play."
-        },
-        {
-          "fixedIn": "1.22",
-          "area": "Link",
-          "midSet": true,
-          "symptom": "PRO DJ LINK did not work properly, with jog wheel and beat sync faults."
-        },
-        {
-          "fixedIn": "1.10",
-          "area": "Audio",
-          "midSet": true,
-          "symptom": "No sound from the SEND output terminal."
-        }
-      ],
-      "note": null
-    },
-    {
       "model": "OMNIS-DUO",
       "slug": "omnis-duo",
       "page": "https://www.savemygig.com/knowledge/alphatheta/omnis-duo",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver123-en.pdf",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/OMNIS-DUO/OMNIS-DUO-Firmware-Change-History-Ver200-en2.pdf",
       "safeFloor": "1.10",
       "withdrawn": null,
       "warning": null,
@@ -1394,7 +1309,7 @@
       "model": "XDJ-AZ",
       "slug": "xdj-az",
       "page": "https://www.savemygig.com/knowledge/alphatheta/xdj-az",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver130-EN.pdf",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-AZ/XDJ-AZ-Firmware-Change-History-Ver200-en.pdf",
       "safeFloor": "1.24",
       "withdrawn": null,
       "warning": null,
@@ -1436,6 +1351,99 @@
           "area": "STEMS",
           "midSet": true,
           "symptom": "Track Separation layout changes in rekordbox swapped the wrong part when adjusted by the EQ knob."
+        }
+      ],
+      "note": null
+    },
+    {
+      "model": "DDJ-1000",
+      "slug": "ddj-1000",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-1000",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404631667609",
+      "safeFloor": "1.12",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-1000.svg",
+      "faults": [
+        {
+          "fixedIn": "1.12",
+          "area": "Display",
+          "midSet": true,
+          "symptom": "The jog wheel waveform disappeared and the performance pads turned purple."
+        },
+        {
+          "fixedIn": "1.07",
+          "area": "Audio",
+          "midSet": false,
+          "symptom": "A performance issue in Spiral FX."
+        },
+        {
+          "fixedIn": "1.07",
+          "area": "Performance",
+          "midSet": false,
+          "symptom": "Fader Start accuracy issue."
+        },
+        {
+          "fixedIn": "1.06",
+          "area": "Crossfader",
+          "midSet": true,
+          "symptom": "Crossfader position did not align correctly between the hardware and rekordbox dj."
+        }
+      ],
+      "note": null
+    },
+    {
+      "model": "DDJ-1000SRT",
+      "slug": "ddj-1000srt",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-1000srt",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404970187545",
+      "safeFloor": "1.02",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-1000srt.svg",
+      "faults": [
+        {
+          "fixedIn": "1.02",
+          "area": "Display",
+          "midSet": true,
+          "symptom": "The BPM shown on the Beat FX display and the BPM in the Serato DJ Pro virtual deck did not match."
+        },
+        {
+          "fixedIn": "1.02",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "Sampler sound did not reach the headphone output when the Sampler Cue button was pressed with the sampler volume at its lowest."
+        }
+      ],
+      "note": "Ver. 1.05 of 9 March 2021 is the highest published version and its entire published note is that minor issues were fixed, so it carries no row. It does carry a documented consequence, printed by Pioneer DJ on the firmware article itself: after updating to 1.05 the Sampler Master Volume in Serato DJ Pro no longer syncs with the SAMPLER VOL knob, and the level has to be set in software instead. Version 1.02 had already changed that knob’s MIDI message. Versions 1.00, 1.01, 1.03 and 1.04 are implied by the numbering and Pioneer DJ’s change history document refused every request during research, so nothing is claimed about them."
+    },
+    {
+      "model": "DDJ-800",
+      "slug": "ddj-800",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-800",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404975525529",
+      "safeFloor": "1.02",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-800.svg",
+      "faults": [
+        {
+          "fixedIn": "1.02",
+          "area": "Display",
+          "midSet": true,
+          "symptom": "With MIDI-compatible software other than rekordbox, MIDI messages failed to update on the Jog Dial Displays."
+        },
+        {
+          "fixedIn": "1.02",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Fader Start accuracy was improved in the same release."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "DVS",
+          "midSet": true,
+          "symptom": "rekordbox dvs could not be used with Control Vinyl."
         }
       ],
       "note": null
@@ -1491,91 +1499,16 @@
       "note": null
     },
     {
-      "model": "DDJ-REV7",
-      "slug": "ddj-rev7",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-rev7",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-REV7/DDJ-REV7-Firmware-Change-History-Ver201-en.pdf",
-      "safeFloor": "1.02",
+      "model": "DDJ-FLX2",
+      "slug": "ddj-flx2",
+      "page": "https://www.savemygig.com/knowledge/alphatheta/ddj-flx2",
+      "changeHistory": "https://support.alphatheta.com/en-US/products/32749270709529",
+      "safeFloor": null,
       "withdrawn": null,
       "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-rev7.svg",
-      "faults": [
-        {
-          "fixedIn": "1.02",
-          "area": "Jog wheel",
-          "midSet": true,
-          "symptom": "A problem operating the motorized jog platter at high speed."
-        }
-      ],
-      "note": null
-    },
-    {
-      "model": "DDJ-1000",
-      "slug": "ddj-1000",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-1000",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404631667609",
-      "safeFloor": "1.12",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-1000.svg",
-      "faults": [
-        {
-          "fixedIn": "1.12",
-          "area": "Display",
-          "midSet": true,
-          "symptom": "The jog wheel waveform disappeared and the performance pads turned purple."
-        },
-        {
-          "fixedIn": "1.07",
-          "area": "Audio",
-          "midSet": false,
-          "symptom": "A performance issue in Spiral FX."
-        },
-        {
-          "fixedIn": "1.07",
-          "area": "Performance",
-          "midSet": false,
-          "symptom": "Fader Start accuracy issue."
-        },
-        {
-          "fixedIn": "1.06",
-          "area": "Crossfader",
-          "midSet": true,
-          "symptom": "Crossfader position did not align correctly between the hardware and rekordbox dj."
-        }
-      ],
-      "note": null
-    },
-    {
-      "model": "DDJ-800",
-      "slug": "ddj-800",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-800",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404975525529",
-      "safeFloor": "1.02",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-800.svg",
-      "faults": [
-        {
-          "fixedIn": "1.02",
-          "area": "Display",
-          "midSet": true,
-          "symptom": "With MIDI-compatible software other than rekordbox, MIDI messages failed to update on the Jog Dial Displays."
-        },
-        {
-          "fixedIn": "1.02",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Fader Start accuracy was improved in the same release."
-        },
-        {
-          "fixedIn": "1.01",
-          "area": "DVS",
-          "midSet": true,
-          "symptom": "rekordbox dvs could not be used with Control Vinyl."
-        }
-      ],
-      "note": null
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-flx2.svg",
+      "faults": [],
+      "note": "Pioneer DJ publish no firmware download and no version history for this model. Their help centre page for it is current rather than archived and carries Manuals, Software Information, Drivers and Product Tutorials, with no Firmware section among them. The driver article is the other half of the picture and says there is nothing to install: a Windows or macOS standard audio driver is installed automatically when the unit is connected by USB. So nothing is listed here because nothing is published, and on this model that is consistent with a unit Pioneer DJ have not needed to update."
     },
     {
       "model": "DDJ-400",
@@ -1590,48 +1523,41 @@
       "note": "AlphaTheta publish two entries for this unit and neither names a defect. 1.03 of 9 March 2021 is described in full as \"Minor issues\" fixed, and 1.01 of 17 September 2019 is filed as an improvement, \"Improved TEMPO slider stability.\" Nothing specific is listed here because nothing specific is published. A thin record is not the same thing as a clean one."
     },
     {
-      "model": "DDJ-1000SRT",
-      "slug": "ddj-1000srt",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-1000srt",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404970187545",
-      "safeFloor": "1.02",
+      "model": "DDJ-200",
+      "slug": "ddj-200",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-200",
+      "changeHistory": "https://support.alphatheta.com/en-US/products/4416577363225",
+      "safeFloor": null,
       "withdrawn": null,
       "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-1000srt.svg",
-      "faults": [
-        {
-          "fixedIn": "1.02",
-          "area": "Display",
-          "midSet": true,
-          "symptom": "The BPM shown on the Beat FX display and the BPM in the Serato DJ Pro virtual deck did not match."
-        },
-        {
-          "fixedIn": "1.02",
-          "area": "Audio",
-          "midSet": true,
-          "symptom": "Sampler sound did not reach the headphone output when the Sampler Cue button was pressed with the sampler volume at its lowest."
-        }
-      ],
-      "note": "Ver. 1.05 of 9 March 2021 is the highest published version and its entire published note is that minor issues were fixed, so it carries no row. It does carry a documented consequence, printed by AlphaTheta on the firmware article itself: after updating to 1.05 the Sampler Master Volume in Serato DJ Pro no longer syncs with the SAMPLER VOL knob, and the level has to be set in software instead. Version 1.02 had already changed that knob’s MIDI message. Versions 1.00, 1.01, 1.03 and 1.04 are implied by the numbering and AlphaTheta’s change history document refused every request during research, so nothing is claimed about them."
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-200.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model. Its product page on their help centre is marked Archived, and the Installation and Updates section of that page lists no article and no version number, which was checked by opening the section rather than inferred from the product page. The unit's own manual carries no firmware procedure either and states only that it works with the operating system's standard driver. So nothing is listed here because nothing is published, and that is an absence of publishing rather than a statement that the unit has no firmware inside it."
     },
     {
-      "model": "DDJ-SZ2",
-      "slug": "ddj-sz2",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sz2",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/23833091075609",
-      "safeFloor": "1.04",
+      "model": "DDJ-SB3",
+      "slug": "ddj-sb3",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sb3",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4405080197145",
+      "safeFloor": "1.01",
       "withdrawn": null,
       "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-sz2.svg",
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sb3.svg",
       "faults": [
         {
-          "fixedIn": "1.04",
-          "area": "Browse",
+          "fixedIn": "1.01",
+          "area": "FX",
           "midSet": true,
-          "symptom": "Needle Search did not work on rare occasions."
+          "symptom": "FX FADE worked incorrectly when the unit was connected to Serato DJ Pro."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "Display",
+          "midSet": false,
+          "symptom": "The LED lights lit incorrectly when Serato DJ Lite or Serato DJ Pro was launched or closed."
         }
       ],
-      "note": "Ver. 1.04 of 24 October 2017 is the version AlphaTheta still publish and nothing has been issued since. Its second entry is an improvement to tempo slider accuracy rather than a named defect, so it carries no row above. Versions 1.00 to 1.03 are not documented in the published change history and nothing is claimed about them here."
+      "note": null
     },
     {
       "model": "DDJ-SX3",
@@ -1656,130 +1582,62 @@
           "symptom": "Performance pads and buttons sometimes lit incorrectly when connecting a computer with Serato DJ Pro running."
         }
       ],
-      "note": "Ver. 1.02 of 06/Feb/2020 is the current and only published version. AlphaTheta show its changes and no earlier change history could be found, so nothing is claimed about 1.00 or 1.01. Note that the firmware updater is separate software from the audio driver: the driver reaches macOS Tahoe and the updater’s own guide names nothing newer than macOS High Sierra and requires Java."
+      "note": "Ver. 1.02 of 06/Feb/2020 is the current and only published version. Pioneer DJ show its changes and no earlier change history could be found, so nothing is claimed about 1.00 or 1.01. Note that the firmware updater is separate software from the audio driver: the driver reaches macOS Tahoe and the updater’s own guide names nothing newer than macOS High Sierra and requires Java."
     },
     {
-      "model": "DDJ-SX2",
-      "slug": "ddj-sx2",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sx2",
-      "changeHistory": "https://support.alphatheta.com/en-US/products/4416558363289?section=25",
-      "safeFloor": "1.06",
+      "model": "DDJ-REV7",
+      "slug": "ddj-rev7",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-rev7",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-REV7/DDJ-REV7-Firmware-Change-History-Ver201-en.pdf",
+      "safeFloor": "1.02",
       "withdrawn": null,
       "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-sx2.svg",
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-rev7.svg",
       "faults": [
         {
-          "fixedIn": "1.06",
-          "area": "Channel fader",
-          "midSet": true,
-          "symptom": "Multiple channel faders worked incorrectly when used at the same time."
-        }
-      ],
-      "note": "AlphaTheta list only Ver. 1.06 and the change histories for everything before it have been taken offline: the Ver. 1.05 change history and the update guide now redirect to a generic page. AlphaTheta date 1.06 06/Feb/2020 and Pioneer DJ’s own news item dates the same version and the same fix 30 November, 2015, and this site does not pick one."
-    },
-    {
-      "model": "DDJ-SX",
-      "slug": "ddj-sx",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sx",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/22976696032025",
-      "safeFloor": "1.07",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-sx.svg",
-      "faults": [
-        {
-          "fixedIn": "1.07",
+          "fixedIn": "1.02",
           "area": "Jog wheel",
           "midSet": true,
-          "symptom": "Jog platter sensitivity was wrong when the touch sensor level knob was set close to maximum."
-        },
-        {
-          "fixedIn": "1.05",
-          "area": "Audio",
-          "midSet": true,
-          "symptom": "High microphone input levels produced distortion."
-        },
-        {
-          "fixedIn": "1.05",
-          "area": "Performance",
-          "midSet": false,
-          "symptom": "Pad behaviour in sampler velocity mode was limited."
-        },
-        {
-          "fixedIn": "1.02",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Scratching was not possible with vinyl mode disabled and the audio stopped."
-        },
-        {
-          "fixedIn": "1.02",
-          "area": "MIDI",
-          "midSet": true,
-          "symptom": "Generic MIDI control did not work correctly."
-        },
-        {
-          "fixedIn": "1.01",
-          "area": "Jog wheel",
-          "midSet": false,
-          "symptom": "The touch sensor sensitivity adjustment range was too narrow."
+          "symptom": "A problem operating the motorized jog platter at high speed."
         }
       ],
-      "note": "Ver. 1.07 is the end of the record and AlphaTheta say so themselves: if the unit reads 1.07 there is nothing to update. Two dates exist for it, 13 May 2013 in the change history document and 06/Feb/2020 on the article, and the 2013 date is the contemporaneous one. THE UPDATER NEEDS JAVA, which AlphaTheta state in one line and which is the reason an update appears to do nothing on a machine with no Java runtime installed. After updating, the change history advises recalibrating the touch sensor levels."
+      "note": null
     },
     {
-      "model": "DDJ-SR2",
-      "slug": "ddj-sr2",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sr2",
-      "changeHistory": "https://support.alphatheta.com/en-US/products/4416565879449",
+      "model": "DDJ-REV5",
+      "slug": "ddj-rev5",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-rev5",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/28800482591769",
       "safeFloor": null,
       "withdrawn": null,
       "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-sr2.svg",
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-rev5.svg",
       "faults": [],
-      "note": "AlphaTheta publish no firmware download and no version history for this model at all. Its product page has no Firmware Update section, which was verified by fetching the page and enumerating all seven of its sections, and every former pioneerdj.com firmware path redirects away. That is an absence of publishing and not an absence of firmware: AlphaTheta’s own troubleshooting tells you to read the version out of the DDJ-SR2 Setting Utility. Nothing is listed here because nothing is published, and a version you cannot compare against anything is a version you cannot act on."
+      "note": "AlphaTheta publish one version for this controller and it fixes nothing: Ver. 1.02 of 29 October 2024 changed the automatic power off time to 20 minutes to comply with the EU Ecodesign Directive, which is a compliance change and not a defect fix. No earlier change history could be found, so nothing is claimed about 1.00 or 1.01. An empty table here means nothing specific is published, and a thin record is not the same thing as a clean one."
     },
     {
-      "model": "DDJ-RZX",
-      "slug": "ddj-rzx",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-rzx",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/22895809886489",
-      "safeFloor": "1.10",
+      "model": "DDJ-REV1",
+      "slug": "ddj-rev1",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-rev1",
+      "changeHistory": "https://support.alphatheta.com/en-US/products/4416578056089",
+      "safeFloor": null,
       "withdrawn": null,
       "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-rzx.svg",
-      "faults": [
-        {
-          "fixedIn": "1.10",
-          "area": "Display",
-          "midSet": true,
-          "symptom": "Minor issues on the touch display."
-        },
-        {
-          "fixedIn": "1.09",
-          "area": "Display",
-          "midSet": true,
-          "symptom": "Demo mode, the screen saver and the auto standby function activated during use."
-        },
-        {
-          "fixedIn": "1.05",
-          "area": "Effects",
-          "midSet": true,
-          "symptom": "A clicking noise occurred when using the FILTER of SOUND COLOR FX."
-        },
-        {
-          "fixedIn": "1.04",
-          "area": "Effects",
-          "midSet": true,
-          "symptom": "SOUND COLOR FX malfunctioned, and pad colours were wrong in SAMPLER mode."
-        },
-        {
-          "fixedIn": "1.04",
-          "area": "MIDI",
-          "midSet": true,
-          "symptom": "The unit occasionally failed to receive MIDI signals."
-        }
-      ],
-      "note": "Ver. 1.10 of 27 June 2019 is the highest published version. Ver. 1.08 improved tempo slider accuracy, which is an improvement rather than a named defect and carries no row. Versions 1.00 to 1.03, 1.06 and 1.07 are absent from the published change history and nothing is claimed about them. A version 1.11 is claimed by a third party and AlphaTheta’s own page and change history both stop at 1.10, so it is not published here as fact. Firmware for this model ships as a Windows package only."
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-rev1.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model. Their help centre page for it is current rather than archived, and its sections are Manuals and Software Information with no Firmware section among them. The unit's own manual carries no update procedure either. So nothing is listed here because nothing is published, which on a bus powered controller with no display is unsurprising rather than suspicious."
+    },
+    {
+      "model": "DDJ-XP2",
+      "slug": "ddj-xp2",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-xp2",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404925665177",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-xp2.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model. Its manuals article lists the instruction manual and the quick start guide, with no firmware among them, and the unit's own manual carries no update procedure. Nothing is listed here because nothing is published."
     },
     {
       "model": "DDJ-GRV6",
@@ -1911,6 +1769,31 @@
       "note": null
     },
     {
+      "model": "RMX-500",
+      "slug": "rmx-500",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/rmx-500",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-effectors/RMX-500/RMX-500-Windows-Firmware-Change-History-Ver108-en.pdf",
+      "safeFloor": "1.08",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/rmx-500.svg",
+      "faults": [
+        {
+          "fixedIn": "1.08",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "Output level dropped when the unit was used as a USB audio interface."
+        },
+        {
+          "fixedIn": "1.08",
+          "area": "USB",
+          "midSet": false,
+          "symptom": "The unit did not work as a plug-in controller on some computers."
+        }
+      ],
+      "note": null
+    },
+    {
       "model": "RMX IGNITE",
       "slug": "rmx-ignite",
       "page": "https://www.savemygig.com/knowledge/alphatheta/rmx-ignite",
@@ -1952,6 +1835,483 @@
       "badge": "https://www.savemygig.com/badge/firmware/wave-eight.svg",
       "faults": [],
       "note": "AlphaTheta has published no firmware change history for this unit, so there is no documented fix to report. This section stays empty until one exists."
+    },
+    {
+      "model": "TORAIZ AS-1",
+      "slug": "toraiz-as-1",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/toraiz-as-1",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404659889689",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/toraiz-as-1.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model. Its help centre page lists the manual, two quick start guides and the power supply addendum, and has no Firmware section. The manual does say the unit uses SysEx messages for system updates and for sending and receiving programs, but no system update is listed to download. Nothing is listed here because nothing is published."
+    },
+    {
+      "model": "CHORDCAT",
+      "slug": "chordcat",
+      "page": "https://www.savemygig.com/knowledge/alphatheta/chordcat",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/47401717479833",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/chordcat.svg",
+      "faults": [],
+      "note": "AlphaTheta publish firmware for this model as an additional information manual rather than as a change history. Their help centre page lists one for firmware 1.40 dated 12 March 2026, which describes what 1.10 through 1.40 added, among them user Chordsets, a Chord Edit mode, real-time recording of external MIDI and a MIDI Chord Trigger at 1.40. It names no defect fixed, so nothing is listed here as a fault. An empty table means nothing specific is published, which is not the same thing as a clean record."
+    },
+    {
+      "model": "TORAIZ SP-16",
+      "slug": "toraiz-sp-16",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/toraiz-sp-16",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404659894937",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/toraiz-sp-16.svg",
+      "faults": [],
+      "note": "AlphaTheta publish firmware for this model as an addendum rather than as a change history. Their help centre page lists a Firmware ver1.6 operating instructions addendum dated 6 February 2020, which describes what each version from 1.10 to 1.60 added, from PRO DJ LINK sync at 1.10 to a second insert effect and SYNC SOURCE SELECT at 1.60, plus a list of manual corrections dated 3 October 2019. It names no defect fixed in any version, so nothing is listed here as a fault. An empty table means nothing specific is published, which is not the same thing as a clean record."
+    },
+    {
+      "model": "TORAIZ SQUID",
+      "slug": "toraiz-squid",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/toraiz-squid",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404659881241",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/toraiz-squid.svg",
+      "faults": [],
+      "note": "AlphaTheta publish firmware for this model as an addendum rather than as a change history. Their help centre page, which is current rather than archived, lists an addendum for firmware 1.10 dated 25 April 2019. It describes what 1.10 added, among them SQUID Manager, Program Change and Bank Select per track, a per-track delay and a per-pattern playback speed, and it names no defect fixed, so nothing is listed here as a fault. An empty table means nothing specific is published, which is not the same thing as a clean record."
+    },
+    {
+      "model": "CDJ-900",
+      "slug": "cdj-900",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/cdj-900",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900/CDJ-900-Firmware-Change-History-Ver432-en.pdf",
+      "safeFloor": "4.11",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/cdj-900.svg",
+      "faults": [
+        {
+          "fixedIn": "4.11",
+          "area": "USB",
+          "midSet": true,
+          "symptom": "A particular USB 3.0 device did not work properly."
+        },
+        {
+          "fixedIn": "4.11",
+          "area": "Sound",
+          "midSet": true,
+          "symptom": "Static noise was occasionally generated with a particular MP3 file."
+        },
+        {
+          "fixedIn": "4.05",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "The beat grid was rarely misaligned by about 50 ms with MASTER TEMPO on."
+        },
+        {
+          "fixedIn": "4.00",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Playback stopped if a loop was created across a whole CD."
+        },
+        {
+          "fixedIn": "3.20",
+          "area": "USB",
+          "midSet": true,
+          "symptom": "A rare fault accessing media devices, and audio interruptions after long playback."
+        }
+      ],
+      "note": "The last release for this player, 4.32 of 1 April 2014, added KUVO support and fixed nothing. Nothing has been published since. Only the entries that name a defect appear in the table above."
+    },
+    {
+      "model": "CDJ-2000",
+      "slug": "cdj-2000",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/cdj-2000",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000/CDJ-2000-Firmware-Change-History-Ver433-en.pdf",
+      "safeFloor": "4.33",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/cdj-2000.svg",
+      "faults": [
+        {
+          "fixedIn": "4.33",
+          "area": "Browse",
+          "midSet": false,
+          "symptom": "Tracks in some folders on a 2 TB hard drive were not displayed when browsing."
+        },
+        {
+          "fixedIn": "4.33",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "A WAVE file with an incompatible header could not be loaded, and the loading message stayed on screen."
+        },
+        {
+          "fixedIn": "4.11",
+          "area": "USB",
+          "midSet": true,
+          "symptom": "A particular USB 3.0 device did not work properly."
+        },
+        {
+          "fixedIn": "4.11",
+          "area": "Sound",
+          "midSet": true,
+          "symptom": "Static noise was occasionally generated with a particular MP3 file."
+        },
+        {
+          "fixedIn": "4.10",
+          "area": "Performance",
+          "midSet": true,
+          "symptom": "A fault could occur when multiple CUE or HOT CUE points were set at the same time."
+        },
+        {
+          "fixedIn": "4.05",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "The beat grid was rarely misaligned by about 50 ms with MASTER TEMPO on."
+        },
+        {
+          "fixedIn": "4.04",
+          "area": "PRO DJ LINK",
+          "midSet": true,
+          "symptom": "Playback stopped with an E-8302 PLAYER ERROR over PRO DJ LINK when reaching a hard drive that wakes slowly from sleep."
+        },
+        {
+          "fixedIn": "4.01",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Fader Start did not work correctly in some cases."
+        },
+        {
+          "fixedIn": "4.01",
+          "area": "Browse",
+          "midSet": false,
+          "symptom": "Loading time when browsing from PLAYLIST had grown between 3.20 and 4.00."
+        },
+        {
+          "fixedIn": "4.00",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Playback stopped if a loop was created across a whole CD."
+        },
+        {
+          "fixedIn": "3.20",
+          "area": "USB",
+          "midSet": true,
+          "symptom": "A rare fault accessing media devices, and audio interruptions after long playback."
+        }
+      ],
+      "note": "AlphaTheta publish a long record for this player, twelve dated versions from December 2009 to 4.33 in February 2015, and nothing since. Only the entries that name a defect appear in the table above; the feature releases and the sound-quality improvements are on the model page."
+    },
+    {
+      "model": "DDJ-RZX",
+      "slug": "ddj-rzx",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/ddj-rzx",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/22895809886489",
+      "safeFloor": "1.10",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-rzx.svg",
+      "faults": [
+        {
+          "fixedIn": "1.10",
+          "area": "Display",
+          "midSet": true,
+          "symptom": "Minor issues on the touch display."
+        },
+        {
+          "fixedIn": "1.09",
+          "area": "Display",
+          "midSet": true,
+          "symptom": "Demo mode, the screen saver and the auto standby function activated during use."
+        },
+        {
+          "fixedIn": "1.05",
+          "area": "Effects",
+          "midSet": true,
+          "symptom": "A clicking noise occurred when using the FILTER of SOUND COLOR FX."
+        },
+        {
+          "fixedIn": "1.04",
+          "area": "Effects",
+          "midSet": true,
+          "symptom": "SOUND COLOR FX malfunctioned, and pad colours were wrong in SAMPLER mode."
+        },
+        {
+          "fixedIn": "1.04",
+          "area": "MIDI",
+          "midSet": true,
+          "symptom": "The unit occasionally failed to receive MIDI signals."
+        }
+      ],
+      "note": "Ver. 1.10 of 27 June 2019 is the highest published version. Ver. 1.08 improved tempo slider accuracy, which is an improvement rather than a named defect and carries no row. Versions 1.00 to 1.03, 1.06 and 1.07 are absent from the published change history and nothing is claimed about them. A version 1.11 is claimed by a third party and AlphaTheta’s own page and change history both stop at 1.10, so it is not published here as fact. Firmware for this model ships as a Windows package only."
+    },
+    {
+      "model": "DDJ-SP1",
+      "slug": "ddj-sp1",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/ddj-sp1",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/23590584993433",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sp1.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model. Its manuals article lists the instruction manual and nothing else, and the unit's own documentation carries no update procedure. On a 2013 sub controller with no display, no audio path and no storage, that is consistent rather than surprising, but it is recorded as an absence of publishing rather than as a claim about the hardware."
+    },
+    {
+      "model": "DDJ-SR2",
+      "slug": "ddj-sr2",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/ddj-sr2",
+      "changeHistory": "https://support.alphatheta.com/en-US/products/4416565879449",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sr2.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model at all. Its product page has no Firmware Update section, which was verified by fetching the page and enumerating all seven of its sections, and every former pioneerdj.com firmware path redirects away. That is an absence of publishing and not an absence of firmware: AlphaTheta’s own troubleshooting tells you to read the version out of the DDJ-SR2 Setting Utility. Nothing is listed here because nothing is published, and a version you cannot compare against anything is a version you cannot act on."
+    },
+    {
+      "model": "DDJ-SX",
+      "slug": "ddj-sx",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/ddj-sx",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/22976696032025",
+      "safeFloor": "1.07",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sx.svg",
+      "faults": [
+        {
+          "fixedIn": "1.07",
+          "area": "Jog wheel",
+          "midSet": true,
+          "symptom": "Jog platter sensitivity was wrong when the touch sensor level knob was set close to maximum."
+        },
+        {
+          "fixedIn": "1.05",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "High microphone input levels produced distortion."
+        },
+        {
+          "fixedIn": "1.05",
+          "area": "Performance",
+          "midSet": false,
+          "symptom": "Pad behaviour in sampler velocity mode was limited."
+        },
+        {
+          "fixedIn": "1.02",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Scratching was not possible with vinyl mode disabled and the audio stopped."
+        },
+        {
+          "fixedIn": "1.02",
+          "area": "MIDI",
+          "midSet": true,
+          "symptom": "Generic MIDI control did not work correctly."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "Jog wheel",
+          "midSet": false,
+          "symptom": "The touch sensor sensitivity adjustment range was too narrow."
+        }
+      ],
+      "note": "Ver. 1.07 is the end of the record and Pioneer DJ say so themselves: if the unit reads 1.07 there is nothing to update. Two dates exist for it, 13 May 2013 in the change history document and 06/Feb/2020 on the article, and the 2013 date is the contemporaneous one. THE UPDATER NEEDS JAVA, which Pioneer DJ state in one line and which is the reason an update appears to do nothing on a machine with no Java runtime installed. After updating, the change history advises recalibrating the touch sensor levels."
+    },
+    {
+      "model": "DDJ-SX2",
+      "slug": "ddj-sx2",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/ddj-sx2",
+      "changeHistory": "https://support.alphatheta.com/en-US/products/4416558363289?section=25",
+      "safeFloor": "1.06",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sx2.svg",
+      "faults": [
+        {
+          "fixedIn": "1.06",
+          "area": "Channel fader",
+          "midSet": true,
+          "symptom": "Multiple channel faders worked incorrectly when used at the same time."
+        }
+      ],
+      "note": "Pioneer DJ list only Ver. 1.06 and the change histories for everything before it have been taken offline: the Ver. 1.05 change history and the update guide now redirect to a generic page. Pioneer DJ date 1.06 06/Feb/2020 and Pioneer DJ’s own news item dates the same version and the same fix 30 November, 2015, and this site does not pick one."
+    },
+    {
+      "model": "DDJ-SZ2",
+      "slug": "ddj-sz2",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/ddj-sz2",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/23833091075609",
+      "safeFloor": "1.04",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sz2.svg",
+      "faults": [
+        {
+          "fixedIn": "1.04",
+          "area": "Browse",
+          "midSet": true,
+          "symptom": "Needle Search did not work on rare occasions."
+        }
+      ],
+      "note": "Ver. 1.04 of 24 October 2017 is the version Pioneer DJ still publish and nothing has been issued since. Its second entry is an improvement to tempo slider accuracy rather than a named defect, so it carries no row above. Versions 1.00 to 1.03 are not documented in the published change history and nothing is claimed about them here."
+    },
+    {
+      "model": "DDJ-XP1",
+      "slug": "ddj-xp1",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/ddj-xp1",
+      "changeHistory": "https://support.alphatheta.com/en-US/products/4416565190425",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-xp1.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware download and no version history for this model, and its help centre page is marked Archived. That page lists a single document, the instruction manual, under Manuals, and its Installation and Updates section offers no version number. Nothing is listed here because nothing is published."
+    },
+    {
+      "model": "DJM-750",
+      "slug": "djm-750",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/djm-750",
+      "changeHistory": "https://support.alphatheta.com/en-US/products/4416502508057",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/djm-750.svg",
+      "faults": [],
+      "note": "AlphaTheta publish no firmware and no version history for the DJM-750. Its help centre page carries Manuals, Software Information and Drivers tabs and no Firmware Update tab at all, and every firmware article published around this model is for the DJM-750MK2, which is a different product. What does exist for it is a driver, ver. 1.400 of 29 July 2020, and a driver is not firmware: it runs on the computer, not in the mixer. Nothing is listed here because nothing is published."
+    },
+    {
+      "model": "DJM-850",
+      "slug": "djm-850",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/djm-850",
+      "changeHistory": "https://downloads.support.alphatheta.com/manuals/DJM_850_DRB1641A_manual.pdf",
+      "safeFloor": null,
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/djm-850.svg",
+      "faults": [],
+      "note": "Three checks against Pioneer’s own material, all empty: their download server carries no firmware change history page for the DJM-850, their support page for it is archived with a Firmware Update section listing nothing, and no firmware news release exists, only driver releases. That is an absence of reachable record rather than proof that no firmware exists. The stronger claim was made on the DJM-900SRT page on 27 October 2026 and was wrong within hours, because that model’s version lived in a news item rather than on its support page."
+    },
+    {
+      "model": "DJM-900SRT",
+      "slug": "djm-900srt",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/djm-900srt",
+      "changeHistory": "https://www.pioneerdj.com/en/news/2016/djm-900nxs-and-djm-900srt-firmware-update-ver132-and-ver113/",
+      "safeFloor": "1.13",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/djm-900srt.svg",
+      "faults": [
+        {
+          "fixedIn": "1.13",
+          "area": "Power",
+          "midSet": true,
+          "symptom": "Standby could not always be cancelled with the LFO FORM (WAKE UP) control."
+        }
+      ],
+      "note": null
+    },
+    {
+      "model": "DJM-2000NXS",
+      "slug": "djm-2000nxs",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/djm-2000nxs",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/22072186038297",
+      "safeFloor": "3.21",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/djm-2000nxs.svg",
+      "faults": [
+        {
+          "fixedIn": "3.21",
+          "area": "Recording",
+          "midSet": false,
+          "symptom": "Audio could not be recorded on macOS 10.13.2."
+        },
+        {
+          "fixedIn": "3.19",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "A buzzing noise could be heard when a DJ application switched sampling rates while the mixer’s USB soundcard was in use."
+        }
+      ],
+      "note": "Ver. 3.21 is the highest published version and Pioneer DJ render its date two ways on their own material, 10 July 2018 in the change history and 7 October 2018 on the article, which is the ordinary 07/10 ambiguity. Ver. 3.20 added KUVO support and 3.18 improved SIDECHAIN REMIX and added manual effects to it, both additions rather than named defects, so neither carries a row. THE HISTORY HAS NO VERSION BELOW 3.18, and that is the answer to the DJM-2000 question rather than a gap: 3.18 is where the two products converged. The DJM-2000 is a different product with its own history and it has no row here because this site has no page for it. The two share a firmware filename from 3.18 onward and that is not permission to flash either machine with the other file."
+    },
+    {
+      "model": "XDJ-1000",
+      "slug": "xdj-1000",
+      "page": "https://www.savemygig.com/archive/pioneer-dj/xdj-1000",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf",
+      "safeFloor": "1.13",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/xdj-1000.svg",
+      "faults": [
+        {
+          "fixedIn": "1.13",
+          "area": "Performance",
+          "midSet": true,
+          "symptom": "BPM does not return to the displayed value after Sync is used."
+        },
+        {
+          "fixedIn": "1.13",
+          "area": "Sound",
+          "midSet": true,
+          "symptom": "A popping noise is heard on a loop with QUANTIZE and Master Tempo both on."
+        },
+        {
+          "fixedIn": "1.12",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Unspecified playback and track-selection issues."
+        },
+        {
+          "fixedIn": "1.12",
+          "area": "Performance",
+          "midSet": true,
+          "symptom": "Unspecified SLIP HOT CUE issues, and a SEARCH cursor issue."
+        },
+        {
+          "fixedIn": "1.10",
+          "area": "PRO DJ LINK",
+          "midSet": true,
+          "symptom": "PRO DJ LINK features are disabled when linked to a CDJ-2000NXS2 or an XDJ-1000MK2."
+        },
+        {
+          "fixedIn": "1.10",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "AIFF files at 24-bit/48 kHz stop playback partway through."
+        },
+        {
+          "fixedIn": "1.10",
+          "area": "Sound",
+          "midSet": true,
+          "symptom": "WAV files produce white-noise distortion."
+        },
+        {
+          "fixedIn": "1.05",
+          "area": "USB",
+          "midSet": false,
+          "symptom": "Some USB hard disks are not recognized."
+        },
+        {
+          "fixedIn": "1.05",
+          "area": "Sound",
+          "midSet": true,
+          "symptom": "Noise is heard with Master Tempo turned on."
+        },
+        {
+          "fixedIn": "1.04",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Freezes loading a track that carries a rekordbox 3.1 memory-cue comment."
+        }
+      ],
+      "note": null
     }
   ]
 }

@@ -137,14 +137,10 @@
       "badge": "https://www.savemygig.com/badge/usb/cdj-2000nxs2.svg"
     },
     {
-      "model": "CDJ-2000 / NXS",
-      "slug": "cdj-2000",
+      "model": "CDJ-2000NXS",
+      "slug": "cdj-2000nxs",
       "family": "AlphaTheta / Pioneer DJ",
       "pages": [
-        {
-          "name": "CDJ-2000",
-          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-2000"
-        },
         {
           "name": "CDJ-2000NXS",
           "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-2000nxs"
@@ -153,19 +149,41 @@
       "library": "Device Library",
       "fat32": "Yes",
       "exfat": "No",
-      "hfsPlus": "Yes",
-      "ntfs": "No",
+      "hfsPlus": null,
+      "ntfs": null,
       "firstPartitionOnly": null,
-      "reads": "FAT16, FAT32, HFS+",
+      "reads": null,
       "note": "Still everywhere. FAT32, FAT or HFS+.",
       "sources": [
         {
           "label": "rekordbox FAQ, exFAT and library format",
           "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
-        },
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/cdj-2000nxs.svg"
+    },
+    {
+      "model": "CDJ-2000",
+      "slug": "cdj-2000",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
         {
-          "label": "model documentation",
-          "url": "https://support.alphatheta.com/en-US/articles/4406137645977"
+          "name": "CDJ-2000",
+          "url": "https://www.savemygig.com/archive/pioneer-dj/cdj-2000"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": null,
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": null,
+      "note": "FAT, FAT32 or HFS+. The only deck here with an SD card slot as well as USB.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
         }
       ],
       "badge": "https://www.savemygig.com/badge/usb/cdj-2000.svg"
@@ -207,7 +225,11 @@
       "pages": [
         {
           "name": "CDJ-900",
-          "url": "https://www.savemygig.com/knowledge/pioneer-dj/cdj-900"
+          "url": "https://www.savemygig.com/archive/pioneer-dj/cdj-900"
+        },
+        {
+          "name": "CDJ-850",
+          "url": "https://www.savemygig.com/archive/pioneer-dj/cdj-850"
         }
       ],
       "library": "Device Library",
@@ -379,6 +401,32 @@
         }
       ],
       "badge": "https://www.savemygig.com/badge/usb/xdj-1000mk2.svg"
+    },
+    {
+      "model": "XDJ-1000",
+      "slug": "xdj-1000",
+      "family": "AlphaTheta / Pioneer DJ",
+      "pages": [
+        {
+          "name": "XDJ-1000",
+          "url": "https://www.savemygig.com/archive/pioneer-dj/xdj-1000"
+        }
+      ],
+      "library": "Device Library",
+      "fat32": "Yes",
+      "exfat": "No",
+      "hfsPlus": null,
+      "ntfs": null,
+      "firstPartitionOnly": null,
+      "reads": null,
+      "note": "USB only, no disc drive and no SD slot. FAT16, FAT32 or HFS+.",
+      "sources": [
+        {
+          "label": "rekordbox FAQ, exFAT and library format",
+          "url": "https://rekordbox.com/en/support/faq/v7/#faq-q700010"
+        }
+      ],
+      "badge": "https://www.savemygig.com/badge/usb/xdj-1000.svg"
     },
     {
       "model": "XDJ-RX2",
