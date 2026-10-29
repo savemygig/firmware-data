@@ -1116,55 +1116,6 @@
       "note": null
     },
     {
-      "model": "XDJ-RR",
-      "slug": "xdj-rr",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-rr",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf",
-      "safeFloor": "1.05",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/xdj-rr.svg",
-      "faults": [
-        {
-          "fixedIn": "1.05",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Some WAV files could not be played."
-        },
-        {
-          "fixedIn": "1.03",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Certain AIFF files did not play properly."
-        },
-        {
-          "fixedIn": "1.03",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Beat SYNC misbehaved when a CUE was triggered or a track was paused."
-        },
-        {
-          "fixedIn": "1.01",
-          "area": "Browse",
-          "midSet": true,
-          "symptom": "The rekordbox database was missing on some HFS+ formatted USB devices."
-        },
-        {
-          "fixedIn": "1.01",
-          "area": "Routing",
-          "midSet": false,
-          "symptom": "The HEADPHONES MONO SPLIT and STEREO setting was not saved across a power cycle."
-        },
-        {
-          "fixedIn": "1.01",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "MASTER TEMPO did not work directly after scratching."
-        }
-      ],
-      "note": "The highest published version is 1.08, dated 13 May 2025. The three 1.01 entries below all shipped in the same release of 23 April 2019."
-    },
-    {
       "model": "XDJ-RX",
       "slug": "xdj-rx",
       "page": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-rx",
@@ -1236,6 +1187,55 @@
         }
       ],
       "note": "AlphaTheta publish ten dated versions for this unit, from 1.30 of 2 March 2015 to 2.21 of 26 October 2017, and nothing since. The table lists the defects this site has read and verified; the linked change history is the complete record, and improvements and feature additions carry no row here by rule."
+    },
+    {
+      "model": "XDJ-RR",
+      "slug": "xdj-rr",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/xdj-rr",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/all-in-one-dj-systems/XDJ-RR/XDJ-RR-Firmware-Change-History-ver108-en.pdf",
+      "safeFloor": "1.05",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/xdj-rr.svg",
+      "faults": [
+        {
+          "fixedIn": "1.05",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Some WAV files could not be played."
+        },
+        {
+          "fixedIn": "1.03",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Certain AIFF files did not play properly."
+        },
+        {
+          "fixedIn": "1.03",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Beat SYNC misbehaved when a CUE was triggered or a track was paused."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "Browse",
+          "midSet": true,
+          "symptom": "The rekordbox database was missing on some HFS+ formatted USB devices."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "Routing",
+          "midSet": false,
+          "symptom": "The HEADPHONES MONO SPLIT and STEREO setting was not saved across a power cycle."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "MASTER TEMPO did not work directly after scratching."
+        }
+      ],
+      "note": "The highest published version is 1.08, dated 13 May 2025. The three 1.01 entries below all shipped in the same release of 23 April 2019."
     },
     {
       "model": "OMNIS-DUO",
@@ -1356,6 +1356,25 @@
       "note": null
     },
     {
+      "model": "DDJ-FLX6",
+      "slug": "ddj-flx6",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-flx6",
+      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX6-GT/DDJ-FLX6-GT-Firmware-Change-History-Ver112-en.pdf",
+      "safeFloor": "1.12",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-flx6.svg",
+      "faults": [
+        {
+          "fixedIn": "1.12",
+          "area": "Software",
+          "midSet": false,
+          "symptom": "An unspecified issue when using TRAKTOR PRO 3."
+        }
+      ],
+      "note": "AlphaTheta do publish a change history for this unit, filed under DDJ-FLX6-GT/DDJ-FLX6. It holds two entries. 1.11 of 15 November 2022 added support for TRAKTOR PRO 3 and VirtualDJ, which is an addition rather than a fix and carries no row above. Below that version the unit has no support for either application at all."
+    },
+    {
       "model": "DDJ-1000",
       "slug": "ddj-1000",
       "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-1000",
@@ -1391,81 +1410,6 @@
         }
       ],
       "note": null
-    },
-    {
-      "model": "DDJ-1000SRT",
-      "slug": "ddj-1000srt",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-1000srt",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404970187545",
-      "safeFloor": "1.02",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-1000srt.svg",
-      "faults": [
-        {
-          "fixedIn": "1.02",
-          "area": "Display",
-          "midSet": true,
-          "symptom": "The BPM shown on the Beat FX display and the BPM in the Serato DJ Pro virtual deck did not match."
-        },
-        {
-          "fixedIn": "1.02",
-          "area": "Audio",
-          "midSet": true,
-          "symptom": "Sampler sound did not reach the headphone output when the Sampler Cue button was pressed with the sampler volume at its lowest."
-        }
-      ],
-      "note": "Ver. 1.05 of 9 March 2021 is the highest published version and its entire published note is that minor issues were fixed, so it carries no row. It does carry a documented consequence, printed by Pioneer DJ on the firmware article itself: after updating to 1.05 the Sampler Master Volume in Serato DJ Pro no longer syncs with the SAMPLER VOL knob, and the level has to be set in software instead. Version 1.02 had already changed that knob’s MIDI message. Versions 1.00, 1.01, 1.03 and 1.04 are implied by the numbering and Pioneer DJ’s change history document refused every request during research, so nothing is claimed about them."
-    },
-    {
-      "model": "DDJ-800",
-      "slug": "ddj-800",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-800",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404975525529",
-      "safeFloor": "1.02",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-800.svg",
-      "faults": [
-        {
-          "fixedIn": "1.02",
-          "area": "Display",
-          "midSet": true,
-          "symptom": "With MIDI-compatible software other than rekordbox, MIDI messages failed to update on the Jog Dial Displays."
-        },
-        {
-          "fixedIn": "1.02",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "Fader Start accuracy was improved in the same release."
-        },
-        {
-          "fixedIn": "1.01",
-          "area": "DVS",
-          "midSet": true,
-          "symptom": "rekordbox dvs could not be used with Control Vinyl."
-        }
-      ],
-      "note": null
-    },
-    {
-      "model": "DDJ-FLX6",
-      "slug": "ddj-flx6",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-flx6",
-      "changeHistory": "https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-FLX6-GT/DDJ-FLX6-GT-Firmware-Change-History-Ver112-en.pdf",
-      "safeFloor": "1.12",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-flx6.svg",
-      "faults": [
-        {
-          "fixedIn": "1.12",
-          "area": "Software",
-          "midSet": false,
-          "symptom": "An unspecified issue when using TRAKTOR PRO 3."
-        }
-      ],
-      "note": "AlphaTheta do publish a change history for this unit, filed under DDJ-FLX6-GT/DDJ-FLX6. It holds two entries. 1.11 of 15 November 2022 added support for TRAKTOR PRO 3 and VirtualDJ, which is an addition rather than a fix and carries no row above. Below that version the unit has no support for either application at all."
     },
     {
       "model": "DDJ-FLX4",
@@ -1511,6 +1455,37 @@
       "note": "Pioneer DJ publish no firmware download and no version history for this model. Their help centre page for it is current rather than archived and carries Manuals, Software Information, Drivers and Product Tutorials, with no Firmware section among them. The driver article is the other half of the picture and says there is nothing to install: a Windows or macOS standard audio driver is installed automatically when the unit is connected by USB. So nothing is listed here because nothing is published, and on this model that is consistent with a unit Pioneer DJ have not needed to update."
     },
     {
+      "model": "DDJ-800",
+      "slug": "ddj-800",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-800",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404975525529",
+      "safeFloor": "1.02",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-800.svg",
+      "faults": [
+        {
+          "fixedIn": "1.02",
+          "area": "Display",
+          "midSet": true,
+          "symptom": "With MIDI-compatible software other than rekordbox, MIDI messages failed to update on the Jog Dial Displays."
+        },
+        {
+          "fixedIn": "1.02",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "Fader Start accuracy was improved in the same release."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "DVS",
+          "midSet": true,
+          "symptom": "rekordbox dvs could not be used with Control Vinyl."
+        }
+      ],
+      "note": null
+    },
+    {
       "model": "DDJ-400",
       "slug": "ddj-400",
       "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-400",
@@ -1533,56 +1508,6 @@
       "badge": "https://www.savemygig.com/badge/firmware/ddj-200.svg",
       "faults": [],
       "note": "AlphaTheta publish no firmware download and no version history for this model. Its product page on their help centre is marked Archived, and the Installation and Updates section of that page lists no article and no version number, which was checked by opening the section rather than inferred from the product page. The unit's own manual carries no firmware procedure either and states only that it works with the operating system's standard driver. So nothing is listed here because nothing is published, and that is an absence of publishing rather than a statement that the unit has no firmware inside it."
-    },
-    {
-      "model": "DDJ-SB3",
-      "slug": "ddj-sb3",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sb3",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/4405080197145",
-      "safeFloor": "1.01",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-sb3.svg",
-      "faults": [
-        {
-          "fixedIn": "1.01",
-          "area": "FX",
-          "midSet": true,
-          "symptom": "FX FADE worked incorrectly when the unit was connected to Serato DJ Pro."
-        },
-        {
-          "fixedIn": "1.01",
-          "area": "Display",
-          "midSet": false,
-          "symptom": "The LED lights lit incorrectly when Serato DJ Lite or Serato DJ Pro was launched or closed."
-        }
-      ],
-      "note": null
-    },
-    {
-      "model": "DDJ-SX3",
-      "slug": "ddj-sx3",
-      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sx3",
-      "changeHistory": "https://support.alphatheta.com/en-US/articles/23660158166809",
-      "safeFloor": "1.02",
-      "withdrawn": null,
-      "warning": null,
-      "badge": "https://www.savemygig.com/badge/firmware/ddj-sx3.svg",
-      "faults": [
-        {
-          "fixedIn": "1.02",
-          "area": "Playback",
-          "midSet": true,
-          "symptom": "The deck stopped playing after scratching or spinning the platter."
-        },
-        {
-          "fixedIn": "1.02",
-          "area": "Display",
-          "midSet": false,
-          "symptom": "Performance pads and buttons sometimes lit incorrectly when connecting a computer with Serato DJ Pro running."
-        }
-      ],
-      "note": "Ver. 1.02 of 06/Feb/2020 is the current and only published version. Pioneer DJ show its changes and no earlier change history could be found, so nothing is claimed about 1.00 or 1.01. Note that the firmware updater is separate software from the audio driver: the driver reaches macOS Tahoe and the updater’s own guide names nothing newer than macOS High Sierra and requires Java."
     },
     {
       "model": "DDJ-REV7",
@@ -1626,6 +1551,81 @@
       "badge": "https://www.savemygig.com/badge/firmware/ddj-rev1.svg",
       "faults": [],
       "note": "AlphaTheta publish no firmware download and no version history for this model. Their help centre page for it is current rather than archived, and its sections are Manuals and Software Information with no Firmware section among them. The unit's own manual carries no update procedure either. So nothing is listed here because nothing is published, which on a bus powered controller with no display is unsurprising rather than suspicious."
+    },
+    {
+      "model": "DDJ-1000SRT",
+      "slug": "ddj-1000srt",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-1000srt",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4404970187545",
+      "safeFloor": "1.02",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-1000srt.svg",
+      "faults": [
+        {
+          "fixedIn": "1.02",
+          "area": "Display",
+          "midSet": true,
+          "symptom": "The BPM shown on the Beat FX display and the BPM in the Serato DJ Pro virtual deck did not match."
+        },
+        {
+          "fixedIn": "1.02",
+          "area": "Audio",
+          "midSet": true,
+          "symptom": "Sampler sound did not reach the headphone output when the Sampler Cue button was pressed with the sampler volume at its lowest."
+        }
+      ],
+      "note": "Ver. 1.05 of 9 March 2021 is the highest published version and its entire published note is that minor issues were fixed, so it carries no row. It does carry a documented consequence, printed by Pioneer DJ on the firmware article itself: after updating to 1.05 the Sampler Master Volume in Serato DJ Pro no longer syncs with the SAMPLER VOL knob, and the level has to be set in software instead. Version 1.02 had already changed that knob’s MIDI message. Versions 1.00, 1.01, 1.03 and 1.04 are implied by the numbering and Pioneer DJ’s change history document refused every request during research, so nothing is claimed about them."
+    },
+    {
+      "model": "DDJ-SX3",
+      "slug": "ddj-sx3",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sx3",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/23660158166809",
+      "safeFloor": "1.02",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sx3.svg",
+      "faults": [
+        {
+          "fixedIn": "1.02",
+          "area": "Playback",
+          "midSet": true,
+          "symptom": "The deck stopped playing after scratching or spinning the platter."
+        },
+        {
+          "fixedIn": "1.02",
+          "area": "Display",
+          "midSet": false,
+          "symptom": "Performance pads and buttons sometimes lit incorrectly when connecting a computer with Serato DJ Pro running."
+        }
+      ],
+      "note": "Ver. 1.02 of 06/Feb/2020 is the current and only published version. Pioneer DJ show its changes and no earlier change history could be found, so nothing is claimed about 1.00 or 1.01. Note that the firmware updater is separate software from the audio driver: the driver reaches macOS Tahoe and the updater’s own guide names nothing newer than macOS High Sierra and requires Java."
+    },
+    {
+      "model": "DDJ-SB3",
+      "slug": "ddj-sb3",
+      "page": "https://www.savemygig.com/knowledge/pioneer-dj/ddj-sb3",
+      "changeHistory": "https://support.alphatheta.com/en-US/articles/4405080197145",
+      "safeFloor": "1.01",
+      "withdrawn": null,
+      "warning": null,
+      "badge": "https://www.savemygig.com/badge/firmware/ddj-sb3.svg",
+      "faults": [
+        {
+          "fixedIn": "1.01",
+          "area": "FX",
+          "midSet": true,
+          "symptom": "FX FADE worked incorrectly when the unit was connected to Serato DJ Pro."
+        },
+        {
+          "fixedIn": "1.01",
+          "area": "Display",
+          "midSet": false,
+          "symptom": "The LED lights lit incorrectly when Serato DJ Lite or Serato DJ Pro was launched or closed."
+        }
+      ],
+      "note": null
     },
     {
       "model": "DDJ-XP2",
