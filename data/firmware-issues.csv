@@ -18,7 +18,7 @@ CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.60,Playback,no,A startup issue affecting SLIP 
 CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.55,Display,no,"Waveform colour selection went missing, then was restored.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS2/CDJ-2000NXS2-Firmware-Change-History-Ver186-en.pdf
 CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.51,Audio,yes,Audio dropouts during Control Mode playback.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS2/CDJ-2000NXS2-Firmware-Change-History-Ver186-en.pdf
 CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.50,Browse,yes,"Track load delays, a HOT LOOP changing length, and colour selection faults.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS2/CDJ-2000NXS2-Firmware-Change-History-Ver186-en.pdf
-CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.40,Link,yes,"PRO DJ LINK worked incorrectly when used with a CDJ-TOUR1 and DJM-TOUR1, which is a touring rig rather than a standard booth.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS2/CDJ-2000NXS2-Firmware-Change-History-Ver186-en.pdf
+CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.40,Link,yes,"PRO DJ LINK worked incorrectly when used with a CDJ-TOUR1 and DJM-TOUR1, which is a touring rig.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS2/CDJ-2000NXS2-Firmware-Change-History-Ver186-en.pdf
 CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.40,Audio,yes,Digitally distorted white noise when playing certain .WAV files.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS2/CDJ-2000NXS2-Firmware-Change-History-Ver186-en.pdf
 CDJ-2000NXS2,cdj-2000nxs2,1.86,,1.30,Browse,no,TRACK FILTER worked incorrectly.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS2/CDJ-2000NXS2-Firmware-Change-History-Ver186-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.43,Playback,yes,Speed did not return to the displayed BPM with Sync on. Popping noise in a loop with QUANTIZE and MASTER TEMPO enabled.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
@@ -26,7 +26,7 @@ CDJ-2000NXS,cdj-2000nxs,1.43,,1.41,Playback,yes,"Issues during playback and trac
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.40,Audio,yes,Digitally distorted white noise on certain WAV files. An active loop could activate a very short loop.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.30,Link,yes,"Linked to a CDJ-2000NXS, some CDJ-2000NXS2 features were disabled.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.25,Playback,yes,AIFF at 24bit/48kHz stopped playing and could not be loaded to a deck. Audio noise while scratching.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
-CDJ-2000NXS,cdj-2000nxs,1.43,,1.24,USB,yes,Some hard drives were not recognized. Noise when Master Tempo was activated.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
+CDJ-2000NXS,cdj-2000nxs,1.43,,1.24,USB,yes,Some hard drives were not recognised. Noise when Master Tempo was activated.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.23,Playback,yes,"A WAVE file with an incompatible header left ""Loading.."" on screen indefinitely. Folders did not list on a 2TB HDD.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.21,Playback,yes,"Needle Search pad faults, a sorted playlist not being restored on return, and the Master Player switching when an Active Loop started.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
 CDJ-2000NXS,cdj-2000nxs,1.43,,1.20,Display,no,"The loop beat display returned to WAVE after a loop ended, and SYNC MASTER switched itself when SYNC was disabled.",https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-2000NXS/CDJ-2000NXS-Firmware-Change-History-Ver144-en.pdf
@@ -39,7 +39,7 @@ CDJ-1500X,cdj-1500x,,,,,,,https://alphatheta.com/en/product/player/cdj-1500x/bla
 CDJ-900NXS,cdj-900nxs,1.31,,1.31,Playback,yes,Speed did not return to the displayed BPM with Sync enabled.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.30,Playback,yes,AIFF at 24bit/48kHz stopped playing and could not be loaded. Digitally distorted white noise on certain WAV files.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.30,Link,yes,PRO DJ LINK compatibility with the CDJ-2000NXS2 and XDJ-1000MK2.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
-CDJ-900NXS,cdj-900nxs,1.31,,1.22,USB,yes,Some hard drives were not recognized. Noise when Master Tempo was activated.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
+CDJ-900NXS,cdj-900nxs,1.31,,1.22,USB,yes,Some hard drives were not recognised. Noise when Master Tempo was activated.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.21,Browse,yes,Folder browsing failed on 2TB hard drives. Slow track list browsing in Serato DJ HID mode.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 CDJ-900NXS,cdj-900nxs,1.31,,1.20,Audio,yes,Playback sound stopped while BEAT DIVIDE was activated.,https://downloads.support.alphatheta.com/firmwares/dj-players/CDJ-900NXS/CDJ-900NXS-Firmware-Change-History-Ver131-en.pdf
 XDJ-1000MK2,xdj-1000mk2,1.42,,1.42,Playback,yes,Some Apple Lossless files would not play.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000MK2/XDJ-1000MK2-Firmware-Change-History-Ver145-en.pdf
@@ -57,16 +57,17 @@ XDJ-700,xdj-700,1.15,,1.15,Audio,yes,The USB audio function did not work in DJ S
 XDJ-700,xdj-700,1.15,,1.13,Playback,yes,Speed did not return to the displayed BPM with Sync on. Popping noise in a loop with QUANTIZE and MASTER TEMPO enabled.,https://assets.pioneerdjhub.com/XDJ-700-Firmware-Change-History-ver115-en2.pdf
 XDJ-700,xdj-700,1.15,,1.12,Browse,yes,SEARCH worked incorrectly under certain conditions.,https://assets.pioneerdjhub.com/XDJ-700-Firmware-Change-History-ver115-en2.pdf
 XDJ-700,xdj-700,1.15,,1.11,Browse,yes,Categories and tracks were not shown in the browser when a database had many tracks. Search results did not appear when moving the cursor.,https://assets.pioneerdjhub.com/XDJ-700-Firmware-Change-History-ver115-en2.pdf
-DJM-V10,djm-v10,1.16,,1.16,USB,yes,UASP-compatible USB drives not recognized.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10/DJM-V10-Firmware-Change-History-Ver120-en.pdf
+DJM-V10,djm-v10,1.16,,1.16,USB,yes,UASP-compatible USB drives not recognised.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10/DJM-V10-Firmware-Change-History-Ver120-en.pdf
 DJM-V10,djm-v10,1.16,,1.12,Audio,yes,Potential audio cut-out when connected to CDJ-3000s over PRO DJ LINK.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10/DJM-V10-Firmware-Change-History-Ver120-en.pdf
 DJM-V10,djm-v10,1.16,,1.07,MIDI,no,Incorrect MIDI output under certain operation.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10/DJM-V10-Firmware-Change-History-Ver120-en.pdf
 DJM-V10,djm-v10,1.16,,1.04,Audio,yes,Audio sometimes failing to input to a channel.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10/DJM-V10-Firmware-Change-History-Ver120-en.pdf
 DJM-V5,djm-v5,,,,,,,https://alphatheta.com/en/product/dj-mixer/djm-v5/black/
-DJM-V10-LF,djm-v10-lf,1.16,,1.16,USB,yes,UASP-compatible USB drives not recognized.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10-LF/DJM-V10-LF-Firmware-Change-History-Ver130-en.pdf
+DJM-V10-LF,djm-v10-lf,1.16,,1.16,USB,yes,UASP-compatible USB drives not recognised.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10-LF/DJM-V10-LF-Firmware-Change-History-Ver130-en.pdf
 DJM-V10-LF,djm-v10-lf,1.16,,1.12,Audio,yes,Potential audio cut-out when connected to CDJ-3000s over PRO DJ LINK.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-V10-LF/DJM-V10-LF-Firmware-Change-History-Ver130-en.pdf
 DJM-A9,djm-a9,1.11,,1.11,Link,yes,Rare freeze under heavy PRO DJ LINK network load.,https://support.alphatheta.com/en-US/articles/24672827170585
-DJM-A9,djm-a9,1.11,,1.07,USB,yes,UASP-compatible USB drives not recognized.,https://support.alphatheta.com/en-US/articles/24672827170585
+DJM-A9,djm-a9,1.11,,1.07,USB,yes,UASP-compatible USB drives not recognised.,https://support.alphatheta.com/en-US/articles/24672827170585
 DJM-A9,djm-a9,1.11,,1.02,Routing,yes,"Insert method intermittently disabling itself when switching the Multi I/O input selector, and DVS phono input malfunction on USB-B after swapping computers across ports.",https://support.alphatheta.com/en-US/articles/24672827170585
+DJM-A7,djm-a7,,,,,,,https://alphatheta.com/en/information/djm-a7-4-channel-mixer-introduction/
 DJM-900NXS2,djm-900nxs2,2.08,,2.08,Audio,no,Audio communication with iOS and iPadOS devices.,https://support.alphatheta.com/en-US/articles/4404624354969
 DJM-900NXS2,djm-900nxs2,2.08,,2.06,Recording,no,DJM-REC recording or live streaming sometimes stopped.,https://support.alphatheta.com/en-US/articles/4404624354969
 DJM-900NXS2,djm-900nxs2,2.08,,2.05,Audio,yes,"Incorrect audio in and out when connected to an iOS device, and the effect channel selector not working with it.",https://support.alphatheta.com/en-US/articles/4404624354969
@@ -88,7 +89,7 @@ DJM-900NXS,djm-900nxs,1.32,,1.26,Audio,no,Slight noise while operating the X-PAD
 DJM-750MK2,djm-750mk2,1.07,,1.07,Audio,no,Audio communication with iOS and iPadOS devices.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-750MK2/DJM-750MK2-Firmware-Change-History-Ver107-en.pdf
 DJM-750MK2,djm-750mk2,1.07,,1.04,Recording,no,DJM-REC recording or live streaming sometimes stopped.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-750MK2/DJM-750MK2-Firmware-Change-History-Ver107-en.pdf
 DJM-750MK2,djm-750mk2,1.07,,1.03,Audio,yes,Popping noise through USB audio when switching FX ASSIGN with BEAT FX on.,https://downloads.support.alphatheta.com/firmwares/dj-mixers/DJM-750MK2/DJM-750MK2-Firmware-Change-History-Ver107-en.pdf
-DJM-450,djm-450,1.08,,1.08,iOS audio,yes,"AlphaTheta name the area and publish no symptom: ""Fixed an issue related to audio communication with iOS/iPadOS devices.""",https://support.alphatheta.com/en-US/articles/4404961985305
+DJM-450,djm-450,1.08,,1.08,iOS audio,yes,"Pioneer DJ name the area and publish no symptom: ""Fixed an issue related to audio communication with iOS/iPadOS devices.""",https://support.alphatheta.com/en-US/articles/4404961985305
 DJM-450,djm-450,1.08,,1.06,Recording,yes,Recording or live streaming with DJM-REC sometimes stopped.,https://support.alphatheta.com/en-US/articles/4404961985305
 DJM-450,djm-450,1.08,,1.03,Audio,yes,Popping noise in USB audio over FX SEND/RETURN when switching FX assign in rekordbox.,https://support.alphatheta.com/en-US/articles/4404961985305
 DJM-450,djm-450,1.08,,1.02,Audio,yes,Popping noise from the EQ/ISO knob.,https://support.alphatheta.com/en-US/articles/4404961985305
@@ -167,7 +168,7 @@ DDJ-800,ddj-800,1.02,,1.02,Playback,yes,Fader Start accuracy was improved in the
 DDJ-800,ddj-800,1.02,,1.01,DVS,yes,rekordbox dvs could not be used with Control Vinyl.,https://support.alphatheta.com/en-US/articles/4404975525529
 DDJ-400,ddj-400,,,,,,,https://support.alphatheta.com/en-US/articles/4404975568281
 DDJ-200,ddj-200,,,,,,,https://support.alphatheta.com/en-US/products/4416577363225
-DDJ-REV7,ddj-rev7,1.02,,1.02,Jog wheel,yes,A problem operating the motorized jog platter at high speed.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-REV7/DDJ-REV7-Firmware-Change-History-Ver201-en.pdf
+DDJ-REV7,ddj-rev7,1.02,,1.02,Jog wheel,yes,A problem operating the motorised jog platter at high speed.,https://downloads.support.alphatheta.com/firmwares/dj-controllers/DDJ-REV7/DDJ-REV7-Firmware-Change-History-Ver201-en.pdf
 DDJ-REV5,ddj-rev5,,,,,,,https://support.alphatheta.com/en-US/articles/28800482591769
 DDJ-REV1,ddj-rev1,,,,,,,https://support.alphatheta.com/en-US/products/4416578056089
 DDJ-1000SRT,ddj-1000srt,1.02,,1.02,Display,yes,The BPM shown on the Beat FX display and the BPM in the Serato DJ Pro virtual deck did not match.,https://support.alphatheta.com/en-US/articles/4404970187545
@@ -193,7 +194,9 @@ RMX-1000,rmx-1000,2.11,,1.20,Audio,yes,Slight noise could rarely be heard on the
 RMX-1000,rmx-1000,2.11,,1.19,MIDI,no,Sending and receiving MIDI signals with the plug-in was faulty.,https://support.alphatheta.com/en-US/articles/4405121384345
 RMX-500,rmx-500,1.08,,1.08,Audio,yes,Output level dropped when the unit was used as a USB audio interface.,https://downloads.support.alphatheta.com/firmwares/dj-effectors/RMX-500/RMX-500-Windows-Firmware-Change-History-Ver108-en.pdf
 RMX-500,rmx-500,1.08,,1.08,USB,no,The unit did not work as a plug-in controller on some computers.,https://downloads.support.alphatheta.com/firmwares/dj-effectors/RMX-500/RMX-500-Windows-Firmware-Change-History-Ver108-en.pdf
-RMX IGNITE,rmx-ignite,1.01,,1.01,Link,yes,Issues when connected to mixers such as the DJM-A9 and DJM-V10.,https://support.alphatheta.com/en-US/articles/53214453590532
+RMX IGNITE,rmx-ignite,1.04,,1.04,Audio,no,Unwanted noise when using digital send/return with a USB cable.,https://support.alphatheta.com/en-US/articles/53214453590532
+RMX IGNITE,rmx-ignite,1.04,,1.04,Tempo,yes,BPM detection algorithm wrong when the measurement method was set to auto.,https://support.alphatheta.com/en-US/articles/53214453590532
+RMX IGNITE,rmx-ignite,1.04,,1.01,Link,yes,Issues when connected to mixers such as the DJM-A9 and DJM-V10.,https://support.alphatheta.com/en-US/articles/53214453590532
 SanDisk DJ Flash Drive,sandisk-dj-flash-drive,,,,,,,https://alphatheta.com/en/product/accessories/sandisk-dj-flash-drive/black/
 WAVE-EIGHT,wave-eight,,,,,,,https://alphatheta.com/en/product/portable-dj-speaker/wave-eight/black/
 TORAIZ AS-1,toraiz-as-1,,,,,,,https://support.alphatheta.com/en-US/articles/4404659889689
@@ -244,6 +247,6 @@ XDJ-1000,xdj-1000,1.13,,1.12,Performance,yes,"Unspecified SLIP HOT CUE issues, a
 XDJ-1000,xdj-1000,1.13,,1.10,PRO DJ LINK,yes,PRO DJ LINK features are disabled when linked to a CDJ-2000NXS2 or an XDJ-1000MK2.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf
 XDJ-1000,xdj-1000,1.13,,1.10,Playback,yes,AIFF files at 24-bit/48 kHz stop playback partway through.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf
 XDJ-1000,xdj-1000,1.13,,1.10,Sound,yes,WAV files produce white-noise distortion.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf
-XDJ-1000,xdj-1000,1.13,,1.05,USB,no,Some USB hard disks are not recognized.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf
+XDJ-1000,xdj-1000,1.13,,1.05,USB,no,Some USB hard disks are not recognised.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf
 XDJ-1000,xdj-1000,1.13,,1.05,Sound,yes,Noise is heard with Master Tempo turned on.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf
 XDJ-1000,xdj-1000,1.13,,1.04,Playback,yes,Freezes loading a track that carries a rekordbox 3.1 memory-cue comment.,https://downloads.support.alphatheta.com/firmwares/dj-players/XDJ-1000/XDJ-1000-Firmware-Change-History-Ver113-en.pdf

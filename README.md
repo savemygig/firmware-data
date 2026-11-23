@@ -5,14 +5,14 @@ Two datasets for DJs, venues, schools and tool builders, derived from the makers
 ## Datasets
 
 ### 1. Firmware faults by version, AlphaTheta and Pioneer DJ
-Every fault AlphaTheta document in a firmware change history, per model, with the version that fixed it and the version at or above which the model carries none of them. Faults only; feature additions are left out. 55 models.
+Every fault AlphaTheta document in a firmware change history, per model, with the version that fixed it and the version at or above which the model carries none of them. Faults only; feature additions are left out. 76 models.
 
 - `data/firmware-issues.json`
 - `data/firmware-issues.csv`
 - Live page, with the same rows and a badge per unit: https://www.savemygig.com/knowledge/pioneer-dj/firmware
 
 ### 2. USB drive compatibility for standalone DJ players
-Which file systems each standalone player reads (FAT32, exFAT, HFS+, NTFS), which rekordbox library format it expects (Device Library or OneLibrary) or whether it runs Engine DJ, and the maker document each row rests on. 29 models. A cell with no maker statement says "not stated" rather than guessing.
+Which file systems each standalone player reads (FAT32, exFAT, HFS+, NTFS), which rekordbox library format it expects (Device Library or OneLibrary) or whether it runs Engine DJ, and the maker document each row rests on. 31 models. A cell with no maker statement says "not stated" rather than guessing.
 
 - `data/usb-compatibility.json`
 - `data/usb-compatibility.csv`

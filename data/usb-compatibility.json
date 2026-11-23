@@ -3,7 +3,7 @@
   "description": "Which file systems each standalone DJ player reads (FAT32, exFAT, HFS+, NTFS), which rekordbox library format it expects (Device Library or OneLibrary) or whether it runs Engine DJ, and the maker document each row rests on.",
   "page": "https://www.savemygig.com/knowledge/usb-compatibility",
   "publisher": "Save My Gig",
-  "reviewed": "31 August 2026",
+  "reviewed": "18 September 2026",
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
   "terms": "Licensed CC BY 4.0: free to reuse, quote and redistribute, with credit to Save My Gig and a link to https://www.savemygig.com/knowledge/usb-compatibility. Every row names the document it rests on.",
@@ -179,7 +179,7 @@
       "ntfs": null,
       "firstPartitionOnly": null,
       "reads": null,
-      "note": "FAT, FAT32 or HFS+. The only deck here with an SD card slot as well as USB.",
+      "note": "FAT, FAT32 or HFS+. It takes an SD card as well as USB.",
       "sources": [
         {
           "label": "rekordbox FAQ, exFAT and library format",
