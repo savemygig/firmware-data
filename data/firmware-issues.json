@@ -941,7 +941,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/euphonia.svg",
       "faults": [],
-      "note": "AlphaTheta has published no firmware change history for this unit, so there is no documented fix to report. This section stays empty until one exists."
+      "note": "AlphaTheta publish no firmware change history for this unit, so there is no documented fix to report."
     },
     {
       "model": "PLX-1000",
@@ -953,7 +953,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/plx-1000.svg",
       "faults": [],
-      "note": "This deck is fully analogue with no digital control path. The Pioneer DJ Help Center product page for it carries no Firmware section, unlike the PLX-CRSS12 page, and the manual makes no mention of firmware anywhere. There is nothing to publish and nothing to update."
+      "note": "This deck is fully analogue with no digital control path, and its manual makes no mention of firmware. There is nothing to update."
     },
     {
       "model": "PLX-500",
@@ -965,7 +965,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/plx-500.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model. Its help centre page lists one document, the instruction manual, with no Firmware section and no driver. It is an analogue deck with a USB audio output that needs no driver, so there is nothing to update."
+      "note": "Pioneer DJ publish no firmware for this model. It is an analogue deck whose USB audio output needs no driver, so there is nothing to update."
     },
     {
       "model": "PLX-CRSS12",
@@ -1464,7 +1464,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-flx2.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model. Their help centre page for it is current rather than archived and carries Manuals, Software Information, Drivers and Product Tutorials, with no Firmware section among them. The driver article is the other half of the picture and says there is nothing to install: a Windows or macOS standard audio driver is installed automatically when the unit is connected by USB. So nothing is listed here because nothing is published, and on this model that is consistent with a unit Pioneer DJ have not needed to update."
+      "note": "Pioneer DJ publish no firmware download or version history for this model. There is no driver to install either: the standard Windows or macOS audio driver loads automatically when the unit is connected by USB."
     },
     {
       "model": "DDJ-800",
@@ -1507,7 +1507,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-400.svg",
       "faults": [],
-      "note": "Pioneer DJ publish two entries for this unit and neither names a defect. 1.03 of 9 March 2021 is described in full as \"Minor issues\" fixed, and 1.01 of 17 September 2019 is filed as an improvement, \"Improved TEMPO slider stability.\" Nothing specific is listed here because nothing specific is published. A thin record is not the same thing as a clean one."
+      "note": "Pioneer DJ publish two versions and neither names a defect: 1.03 of 9 March 2021 is described only as \"Minor issues\" fixed, and 1.01 of 17 September 2019 as \"Improved TEMPO slider stability.\""
     },
     {
       "model": "DDJ-200",
@@ -1519,7 +1519,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-200.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model. Its product page on their help centre is marked Archived, and the Installation and Updates section of that page lists no article and no version number, which was checked by opening the section rather than inferred from the product page. The unit's own manual carries no firmware procedure either and states only that it works with the operating system's standard driver. So nothing is listed here because nothing is published, and that is an absence of publishing rather than a statement that the unit has no firmware inside it."
+      "note": "Pioneer DJ publish no firmware download or version history for this model, and its help centre page is archived. The manual carries no update procedure and says the unit works with the operating system's standard driver."
     },
     {
       "model": "DDJ-REV7",
@@ -1550,7 +1550,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-rev5.svg",
       "faults": [],
-      "note": "Pioneer DJ publish one version for this controller and it fixes nothing: Ver. 1.02 of 29 October 2024 changed the automatic power off time to 20 minutes to comply with the EU Ecodesign Directive, which is a compliance change and not a defect fix. No earlier change history could be found, so nothing is claimed about 1.00 or 1.01. An empty table here means nothing specific is published, and a thin record is not the same thing as a clean one."
+      "note": "Pioneer DJ publish one version and it fixes nothing: Ver. 1.02 of 29 October 2024 changed the automatic power off time to 20 minutes to comply with the EU Ecodesign Directive."
     },
     {
       "model": "DDJ-REV1",
@@ -1562,7 +1562,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-rev1.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model. Their help centre page for it is current, and its sections are Manuals and Software Information with no Firmware section among them. The unit's own manual carries no update procedure either. So nothing is listed here because nothing is published, which on a bus powered controller with no display is unsurprising rather than suspicious."
+      "note": "Pioneer DJ publish no firmware download or version history for this model, and its manual carries no update procedure. On a bus-powered controller with no display, that is expected."
     },
     {
       "model": "DDJ-1000SRT",
@@ -1649,7 +1649,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-xp2.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model. Its manuals article lists the instruction manual and the quick start guide, with no firmware among them, and the unit's own manual carries no update procedure. Nothing is listed here because nothing is published."
+      "note": "Pioneer DJ publish no firmware download or version history for this model, and its manual carries no update procedure."
     },
     {
       "model": "DDJ-GRV6",
@@ -1858,7 +1858,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/wave-eight.svg",
       "faults": [],
-      "note": "AlphaTheta has published no firmware change history for this unit, so there is no documented fix to report. This section stays empty until one exists."
+      "note": "AlphaTheta publish no firmware change history for this unit, so there is no documented fix to report."
     },
     {
       "model": "TORAIZ AS-1",
@@ -1870,7 +1870,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/toraiz-as-1.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model. Its help centre page lists the manual, two quick start guides and the power supply addendum, and has no Firmware section. The manual does say the unit uses SysEx messages for system updates and for sending and receiving programs, but no system update is listed to download. Nothing is listed here because nothing is published."
+      "note": "Pioneer DJ publish no firmware download or version history for this model. The manual says the unit takes system updates over SysEx, but no update is offered to download."
     },
     {
       "model": "CHORDCAT",
@@ -1882,7 +1882,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/chordcat.svg",
       "faults": [],
-      "note": "AlphaTheta publish firmware for this model as an additional information manual rather than as a change history. Their help centre page lists one for firmware 1.40 dated 12 March 2026, which describes what 1.10 through 1.40 added, among them user Chordsets, a Chord Edit mode, real-time recording of external MIDI and a MIDI Chord Trigger at 1.40. It names no defect fixed, so nothing is listed here as a fault. An empty table means nothing specific is published, which is not the same thing as a clean record."
+      "note": "AlphaTheta publish this model's firmware as an additional information manual, not a change history: the one for firmware 1.40, dated 12 March 2026, describes what 1.10 through 1.40 added, among them user Chordsets, a Chord Edit mode, real-time recording of external MIDI and a MIDI Chord Trigger at 1.40. It names no defect fixed."
     },
     {
       "model": "TORAIZ SP-16",
@@ -1894,7 +1894,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/toraiz-sp-16.svg",
       "faults": [],
-      "note": "Pioneer DJ publish firmware for this model as an addendum rather than as a change history. Their help centre page lists a Firmware ver1.6 operating instructions addendum dated 6 February 2020, which describes what each version from 1.10 to 1.60 added, from PRO DJ LINK sync at 1.10 to a second insert effect and SYNC SOURCE SELECT at 1.60, plus a list of manual corrections dated 3 October 2019. It names no defect fixed in any version, so nothing is listed here as a fault. An empty table means nothing specific is published, which is not the same thing as a clean record."
+      "note": "Pioneer DJ publish this model's firmware as an addendum, not a change history: the Firmware ver1.6 instructions of 6 February 2020 describe what each version from 1.10 to 1.60 added, from PRO DJ LINK sync at 1.10 to a second insert effect and SYNC SOURCE SELECT at 1.60, plus a list of manual corrections dated 3 October 2019. None of them names a defect fixed."
     },
     {
       "model": "TORAIZ SQUID",
@@ -1906,7 +1906,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/toraiz-squid.svg",
       "faults": [],
-      "note": "Pioneer DJ publish firmware for this model as an addendum rather than as a change history. Their help centre page, which is current, lists an addendum for firmware 1.10 dated 25 April 2019. It describes what 1.10 added, among them SQUID Manager, Program Change and Bank Select per track, a per-track delay and a per-pattern playback speed, and it names no defect fixed, so nothing is listed here as a fault. An empty table means nothing specific is published, which is not the same thing as a clean record."
+      "note": "Pioneer DJ publish this model's firmware as an addendum, not a change history: the firmware 1.10 addendum of 25 April 2019 describes what 1.10 added, among them SQUID Manager, Program Change and Bank Select per track, a per-track delay and a per-pattern playback speed. It names no defect fixed."
     },
     {
       "model": "CDJ-900",
@@ -2083,7 +2083,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-sp1.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model. Its manuals article lists the instruction manual and nothing else, and the unit's own documentation carries no update procedure. On a 2013 sub controller with no display, no audio path and no storage, that is consistent rather than surprising, but it is recorded as an absence of publishing rather than as a claim about the hardware."
+      "note": "Pioneer DJ publish no firmware download or version history for this model, and its manual carries no update procedure. On a sub controller with no display, no audio path and no storage, that is expected."
     },
     {
       "model": "DDJ-SR2",
@@ -2095,7 +2095,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-sr2.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model at all. Its product page has no Firmware Update section and every former pioneerdj.com firmware path redirects away. That is an absence of publishing and not an absence of firmware: Pioneer DJ’s own troubleshooting tells you to read the version out of the DDJ-SR2 Setting Utility. Nothing is listed here because nothing is published, and a version you cannot compare against anything is a version you cannot act on."
+      "note": "Pioneer DJ publish no firmware download or version history for this model. To see which version a unit runs, their troubleshooting points to the DDJ-SR2 Setting Utility."
     },
     {
       "model": "DDJ-SX",
@@ -2194,7 +2194,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/ddj-xp1.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware download and no version history for this model, and its help centre page is marked Archived. That page lists a single document, the instruction manual, under Manuals, and its Installation and Updates section offers no version number. Nothing is listed here because nothing is published."
+      "note": "Pioneer DJ publish no firmware download or version history for this model, and its help centre page is archived."
     },
     {
       "model": "DJM-750",
@@ -2206,7 +2206,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/djm-750.svg",
       "faults": [],
-      "note": "Pioneer DJ publish no firmware and no version history for the DJM-750. Its help centre page carries Manuals, Software Information and Drivers tabs and no Firmware Update tab at all, and every firmware article published around this model is for the DJM-750MK2, which is a different product. What does exist for it is a driver, ver. 1.400 of 29 July 2020, and a driver is not firmware: it runs on the computer, not in the mixer. Nothing is listed here because nothing is published."
+      "note": "Pioneer DJ publish no firmware or version history for the DJM-750; the firmware articles around it are for the DJM-750MK2, a different product. What exists is a driver, ver. 1.400 of 29 July 2020, and a driver runs on the computer, not in the mixer."
     },
     {
       "model": "DJM-850",
@@ -2218,7 +2218,7 @@
       "warning": null,
       "badge": "https://www.savemygig.com/badge/firmware/djm-850.svg",
       "faults": [],
-      "note": "Three checks against Pioneer’s own material, all empty: their download server carries no firmware change history page for the DJM-850, their support page for it is archived with a Firmware Update section listing nothing, and no firmware news release exists, only driver releases. That is an absence of reachable record rather than proof that no firmware exists. The stronger claim was made on the DJM-900SRT page on 27 October 2026 and was wrong within hours, because that model’s version lived in a news item rather than on its support page."
+      "note": "Pioneer DJ publish no firmware change history for the DJM-850, and the Firmware Update section of its archived support page lists nothing. Their releases for this mixer are drivers only."
     },
     {
       "model": "DJM-900SRT",
